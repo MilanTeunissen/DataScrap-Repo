@@ -4,7 +4,7 @@ use voku\helper\HtmlDomParser;
 
 require_once '../vendor/autoload.php';
 
-$jsonCompanyData = file_get_contents(__DIR__.'/../xml-files/test-data/testJsonData.json');
+$jsonCompanyData = file_get_contents(__DIR__.'/../xml-files/dataList.json');
 $companyData = json_decode($jsonCompanyData, true);
 
 //array's aanmaken die later worden gebruikt

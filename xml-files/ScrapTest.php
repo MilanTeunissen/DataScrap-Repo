@@ -10,7 +10,12 @@ $xml = simplexml_load_string($xmlString);
 
 $dataList = [];
 
+$counter = 0; // Add counter
+
 foreach ($xml->url as $listing) {
+    if ($counter == 2) { // Break the loop if counter reaches 2
+        break;
+    }
 
     $ch = curl_init();
 
@@ -38,6 +43,8 @@ foreach ($xml->url as $listing) {
 
     curl_close($ch);
     sleep(1);
+
+    $counter++; // Increment counter
 }
 
 $dataListFinal = json_encode($dataList);

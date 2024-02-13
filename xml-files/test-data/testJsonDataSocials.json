@@ -1,29 +1,19 @@
 [
     {
-        "companyTitle": "Company 1",
+        "companyTitle": "123Jaloezie",
+        "companyLink": "https:\/\/www.123jaloezie.nl",
+        "companyLogo": "https:\/\/www.acties.nl\/uploads\/nl\/store\/logo\/123jaloezie.png",
+        "companyDescription": "Wil je vervelende pottenkijkers het liefst buiten houden? Dan ben je op de juiste plek bij 123Jaloezie. De webshop zorgt er sinds 2013 voor dat Nederlandse woningen worden voorzien van budgetvriendelijke, maatwerk raambekleding. Het assortiment is dan ook gevuld met diverse typen raamdecoratie waarmee je je privacy eenvoudig kunt behouden. Denk aan houten jaloezie&euml;n, verduisterende rolgordijnen, lamellen of vouwgordijnen die passen bij de look en feel van jouw interieur. Doordat 123Jaloezie.nl is voorzien van handige inmeetinstructies, lukt het iedereen om in een handomdraai de juiste maat raamdecoratie te bestellen. De deskundige medewerkers begeleiden je vervolgens graag in het bestellen en installeren van je jaloezie&euml;n, gordijnen of lamellen. Iedere klant verdient volgens 123Jaloezie namelijk een ongecompliceerde shopervaring.",
+        "facebook": "https:\/\/www.facebook.com\/123jaloezienl",
+        "instagram": "https:\/\/www.instagram.com\/123jaloezie"
+    },
+    {
+        "companyTitle": "123Ledspots",
         "companyLink": "https:\/\/www.123ledspots.nl",
-        "companyLogo": "https:\/\/www.company1.com\/logo.png",
-        "companyDescription": "This is a description for Company 1.",
+        "companyLogo": "https:\/\/www.acties.nl\/uploads\/nl\/store\/logo\/123ledspots.png",
+        "companyDescription": "Steeds meer Nederlandse huishoudens stappen over op slimme verlichting. Deze smartlampen zijn eenvoudig te bedienen en voorzien iedere woonruimte van een futuristisch tintje. Het opkomende fenomeen wordt sinds 2010 op de voet gevolgd door 123Ledspots. De verlichtingspecialist selecteert enkel de duurzaamste en voordeligste plafondspots op basis van de laatste trends uit lampenland. Via het magazijn in Weert belanden de LED-lampen vervolgens in de digitale schappen op 123Ledspots.nl. Deze werkwijze resulteert in een uitgebreid online assortiment aan inbouwspots en dimmers van hoogwaardige merken als Philips Hue en Ecodim. Bij alle categorie&euml;n verschaft 123Ledspots tevens passend advies en handige tips, waarmee het bedrijf je optimaal bijstaat in de zoektocht naar kosten- en energiebesparende verlichting.",
         "facebook": "https:\/\/www.facebook.com\/123ledspots.nl\/",
         "twitter": "https:\/\/twitter.com\/123ledspots",
         "youtube": "https:\/\/www.youtube.com\/channel\/UC6LhoHfGRYGHFH6fgIdJhRg"
-    },
-    {
-        "companyTitle": "Company 2",
-        "companyLink": "https:\/\/www.123lens.nl",
-        "companyLogo": "https:\/\/www.company2.com\/logo.png",
-        "companyDescription": "This is a description for Company 2.",
-        "facebook": "https:\/\/www.facebook.com\/123lens?ref=hl",
-        "twitter": "https:\/\/twitter.com\/MooieKijk",
-        "instagram": "https:\/\/www.instagram.com\/123_lens\/",
-        "youtube": "https:\/\/www.youtube.com\/user\/123contactlenzen"
-    },
-    {
-        "companyTitle": "Company 3",
-        "companyLink": "https:\/\/www.123tuinposter.nl",
-        "companyLogo": "https:\/\/www.company3.com\/logo.png",
-        "companyDescription": "This is a description for Company 3.",
-        "facebook": "https:\/\/www.facebook.com\/123tuinposter",
-        "twitter": "https:\/\/twitter.com\/123tuinposter"
     }
 ]
