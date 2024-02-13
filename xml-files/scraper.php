@@ -20,7 +20,7 @@ foreach ($xml->url as $listing) {
 
         "companyTitle" => $htmlDom->find('#store-logo', 0)->title, //Name of the company
         "companyLink" => 'https://'.$htmlDom->find('#store-topbar .right .link span',0)->plaintext, //link to the company website
-        "companyLogo" => $htmlDom->find('#store-logo', 1)->src, //Logo
+        "companyLogo" => $htmlDom->find('#store-logo', 0)->src, //Logo
         "companyDescription" => $htmlDom->find('#over article p', 1)->plaintext //description
 
     );

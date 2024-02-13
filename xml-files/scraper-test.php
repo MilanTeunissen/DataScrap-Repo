@@ -9,18 +9,34 @@ $companyData = json_decode($jsonCompanyData, true);
 
 $socials = [];
 $tempList = [];
+$dataList = [];
 
+
+//Dit komt allemaal in de foreach uit scraper.php hier gaan we de orginele data
+$html = file_get_contents(__DIR__.'/../xml-files/test-data/actieTest.html');
+$htmlDom = HtmlDomParser::str_get_html($html);
+
+    $companyTitle = $htmlDom->find('#store-logo', 0)->title; //Name of the company
+
+$dataList[$companyTitle] = array (
+
+    "companyLink" => 'https://'.$htmlDom->find('#store-topbar .right .link span',0)->plaintext, //link to the company website
+    "companyLogo" => $htmlDom->find('#store-logo', 0)->src, //Logo
+    "companyDescription" => $htmlDom->find('#over article p', 1)->plaintext //description
+
+);
 
 foreach ($companyData as $entry) {
 
     //functies om links in te kunnen opslaan voor de array
-    $companyFacebook = 'not found';
-    $companyInstagram = 'not found';
-    $companyYoutube = 'not found';
-    $companyTwitter = 'not found';
-    $companyLinkedin = 'not found';
+    $companyFacebook = '';
+    $companyInstagram = '';
+    $companyYoutube = '';
+    $companyTwitter = '';
+    $companyLinkedin = '';
 
     if (isset($entry['companyLink'])) {
+
         $htmlContent = file_get_contents($entry['companyLink']);
 
         $companyHtmlContent = HtmlDomParser::str_get_html($htmlContent);
@@ -42,21 +58,23 @@ foreach ($companyData as $entry) {
                     $companyLinkedin = $tempList['linkedin'] = $element->href;
                 }
 
-
             }
 
-            $socials [] = array(
-                "facebook" => $companyFacebook ?: '' ,
-                "instagram" => $companyInstagram ?: '',
-                "Youtube" => $companyYoutube ?: '',
-                "Twitter" => $companyTwitter ?: '',
-                "LinkedIn" => $companyLinkedin ?: ''
+            $socials [$companyTitle] = array(
+                "facebook" => $companyFacebook,
+                "instagram" => $companyInstagram,
+                "Youtube" => $companyYoutube,
+                "Twitter" => $companyTwitter,
+                "LinkedIn" => $companyLinkedin
             );
 
         }
     }
 
 
-$finalSocialsData = json_encode($socials, JSON_PRETTY_PRINT);
+
+$dataListMerge = array_merge_recursive($dataList, $socials);
+
+$finalSocialsData = json_encode($dataListMerge, JSON_PRETTY_PRINT);
 file_put_contents(__DIR__.'/../xml-files/test-data/testJsonDataSocials.json' , $finalSocialsData);
-var_dump($finalSocialsData);
+print_r($finalSocialsData);
