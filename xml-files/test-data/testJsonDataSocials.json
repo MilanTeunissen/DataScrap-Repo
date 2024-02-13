@@ -1,12 +1,29 @@
-{
-    "A2KOI": {
-        "companyLink": "https:\/\/www.a2koi.nl",
-        "companyLogo": "https:\/\/www.acties.nl\/uploads\/nl\/store\/logo\/a2koi.png",
-        "companyDescription": "A2KOI is d&eacute; koi en vijverwinkel van Nederland. De webshop is opgericht in 2011 door twee heren die een enorme passie delen voor de Japanse Koi. Zij hebben een gezonde focus op ondernemen en hebben zich weten te specialiseren in deze vis. Op A2KOI.nl kun je terecht voor de juiste voeding voor deze vissen, lees je hoe je ze moet onderhouden en welke elementen belangrijk zijn om de vissen gezond en sterk te houden. De winkel is uitgegroeid tot de grootste Koi specialist in de regio Brabant&nbsp;en heeft zelfs meegewerkt aan bekende televisieprogramma&#39;s als KRO Puberruil, RTL 4 Lifestyle Experience en Holland Koi Show. Voor absoluut vakmanschap kun je terecht bij A2KOI!",
-        "facebook": "https:\/\/www.facebook.com\/a2koi\/",
-        "instagram": "https:\/\/www.instagram.com\/a2koinl\/",
-        "Youtube": "https:\/\/www.youtube.com\/channel\/UC8Ya2H4KJn5qPRV-6A24C_w",
-        "Twitter": "",
-        "LinkedIn": ""
+[
+    {
+        "companyTitle": "Company 1",
+        "companyLink": "https:\/\/www.123ledspots.nl",
+        "companyLogo": "https:\/\/www.company1.com\/logo.png",
+        "companyDescription": "This is a description for Company 1.",
+        "facebook": "https:\/\/www.facebook.com\/123ledspots.nl\/",
+        "twitter": "https:\/\/twitter.com\/123ledspots",
+        "youtube": "https:\/\/www.youtube.com\/channel\/UC6LhoHfGRYGHFH6fgIdJhRg"
+    },
+    {
+        "companyTitle": "Company 2",
+        "companyLink": "https:\/\/www.123lens.nl",
+        "companyLogo": "https:\/\/www.company2.com\/logo.png",
+        "companyDescription": "This is a description for Company 2.",
+        "facebook": "https:\/\/www.facebook.com\/123lens?ref=hl",
+        "twitter": "https:\/\/twitter.com\/MooieKijk",
+        "instagram": "https:\/\/www.instagram.com\/123_lens\/",
+        "youtube": "https:\/\/www.youtube.com\/user\/123contactlenzen"
+    },
+    {
+        "companyTitle": "Company 3",
+        "companyLink": "https:\/\/www.123tuinposter.nl",
+        "companyLogo": "https:\/\/www.company3.com\/logo.png",
+        "companyDescription": "This is a description for Company 3.",
+        "facebook": "https:\/\/www.facebook.com\/123tuinposter",
+        "twitter": "https:\/\/twitter.com\/123tuinposter"
     }
-}
+]
