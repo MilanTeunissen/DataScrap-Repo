@@ -7,9 +7,10 @@ require_once '../vendor/autoload.php';
 $jsonCompanyData = file_get_contents(__DIR__.'/../xml-files/test-data/testJsonData.json');
 $companyData = json_decode($jsonCompanyData, true);
 
-$socials = [];
-$tempList = [];
-$dataList = [];
+//array's aanmaken die later worden gebruikt
+$socials = []; //hier komen de socials in vanuit $tempList
+$tempList = []; //hier worden tijdelijk de socials in opgeslagen voordat ze naar de socials gaan
+$dataList = []; //hier wordt de bedrijfs data in opgeslagen denk aan naam, website, logo en de beschrijving van actie.nl
 
 
 //Dit komt allemaal in de foreach uit scraper.php hier gaan we de orginele data
@@ -20,15 +21,23 @@ $htmlDom = HtmlDomParser::str_get_html($html);
 
 $dataList[$companyTitle] = array (
 
-    "companyLink" => 'https://'.$htmlDom->find('#store-topbar .right .link span',0)->plaintext, //link to the company website
-    "companyLogo" => $htmlDom->find('#store-logo', 0)->src, //Logo
-    "companyDescription" => $htmlDom->find('#over article p', 1)->plaintext //description
+    "companyLink" => 'https://'.$htmlDom->find('#store-topbar .right .link span',0)->plaintext, //link naar de website van het bedrijf
+    "companyLogo" => $htmlDom->find('#store-logo', 0)->src, //Logo van het bedrijf
+    "companyDescription" => $htmlDom->find('#over article p', 1)->plaintext //beschrijving van het bedrijf
 
 );
 
+
+//buiten de foreach anders kan het programma de data nergens uit ophalen
+$dataListFinal = json_encode($dataList);
+file_put_contents(__DIR__.'/../xml-files/test-data/testJsonData.json', $dataListFinal);
+
+$jsonCompanyData = file_get_contents(__DIR__.'/../xml-files/test-data/testJsonData.json');
+$companyData = json_decode($jsonCompanyData, true);
+
 foreach ($companyData as $entry) {
 
-    //functies om links in te kunnen opslaan voor de array
+    //variables in de loop constant leeg maken om te verkomen dat bijvoorbeeld de facebook van lego.nl komt te staan bij albertheijn.nl
     $companyFacebook = '';
     $companyInstagram = '';
     $companyYoutube = '';
@@ -41,6 +50,10 @@ foreach ($companyData as $entry) {
 
         $companyHtmlContent = HtmlDomParser::str_get_html($htmlContent);
 
+            //in deze foreach wordt er gezocht naar een 'a' tag href waarbij gezocht wordt naar de link van de socials die ik nodig heb
+            //er wordt gebruik gemaakt van de || (or) operator om verschillende varrianten te vinden
+            //bij twitter is er rekening mee gehouden dat het voor sommige bedrijven al als 'X' er zou staan aangezien dat de nieuwe naam van het bedrijf is
+            //hiermee is het mogelijk gemaakt om dit voor andere projecten te gebruiken
             foreach ($companyHtmlContent->find('a') as $element) {
                 if (str_contains($element->href, "https://www.facebook") || str_contains($element->href, "https://www.Facebook")|| str_contains($element->href, "https://facebook")  || str_contains($element->href, "https://Facebook")) {
                     $companyFacebook = $tempList['facebook'] = $element->href;
@@ -51,7 +64,7 @@ foreach ($companyData as $entry) {
                 if (str_contains($element->href, 'https://www.youtube') || str_contains($element->href, "https://www.Youtube") || str_contains($element->href, "https://youtube") || str_contains($element->href, "https://Youtube")) {
                     $companyYoutube = $tempList['youtube'] = $element->href;
                 }
-                if (str_contains($element->href, 'https://www.twitter') || str_contains($element->href, "https://www.Twitter")  || str_contains($element->href, "https://twitter")  || str_contains($element->href, "https://Twitter")) {
+                if (str_contains($element->href, 'https://www.twitter') || str_contains($element->href, "https://www.Twitter")  || str_contains($element->href, "https://twitter")  || str_contains($element->href, "https://Twitter") || str_contains($element->href, "https://www.X") || str_contains($element->href, "https://www.x") || str_contains($element->href, "https://X") || str_contains($element->href, "https://x")) {
                     $companyTwitter = $tempList['twitter'] = $element->href;
                 }
                 if (str_contains($element->href, 'https://www.linkedin')  || str_contains($element->href, "https://www.Linkedin")  || str_contains($element->href, "https://linkedin")  || str_contains($element->href, "https://Linkedin")) {
