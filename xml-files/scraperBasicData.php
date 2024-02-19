@@ -1,4 +1,4 @@
-<?php
+<?php /** @noinspection DuplicatedCode */
 
 use voku\helper\HtmlDomParser;
 use voku\helper\XmlDomParser;
@@ -9,6 +9,7 @@ $xmlString = XmlDomParser::file_get_xml(__DIR__ . '/../xml-files/sitemap-acties.
 $xml = simplexml_load_string($xmlString);
 
 $dataList = [];
+$count = 1319;
 
 foreach ($xml->url as $listing) {
 
@@ -27,16 +28,18 @@ foreach ($xml->url as $listing) {
         $htmlDom = HtmlDomParser::str_get_html($html);
 
         $dataList[] = array (
-            "companyTitle" => $htmlDom->find('#store-logo', 0)->title,
+            "name" => $htmlDom->find('#store-logo', 0)->title,
             "companyLink" => 'https://'.$htmlDom->find('#store-topbar .right .link span',0)->plaintext,
             "companyLogo" => $htmlDom->find('#store-logo', 1)->src,
             "companyDescription" => $htmlDom->find('#over article p', 1)->plaintext
         );
 
-        echo "Processed URL: " . $listing->loc . "\n";
+
     }
 
     curl_close($ch);
+    $count--;
+    echo "Processed URL: " . $listing->loc . " Number of processed remaining: ". $count ."\n";
     sleep(1);
 }
 

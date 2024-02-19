@@ -1,5 +1,7 @@
 # Created by http://www.gitignore.io
 
+.xml
+
 # php (composer)
 vendor
 composer.lock

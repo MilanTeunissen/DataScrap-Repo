@@ -10,11 +10,18 @@ $companyData = json_decode($jsonCompanyData, true);
 //array's aanmaken die later worden gebruikt
 $companies = [];
 
+$remaining = 1319;
+
 foreach ($companyData as $company) {
 
     if (isset($company['companyLink'])) {
 
-        $htmlContent = file_get_contents($company['companyLink']);
+        $htmlContent = @file_get_contents($company['companyLink']);
+
+        if ($htmlContent === false) {
+            echo "Failed to fetch HTML content from URL: " . $company['companyLink'] . "\n";
+            continue;
+        }
 
         $companyHtmlContent = HtmlDomParser::str_get_html($htmlContent);
 
@@ -37,9 +44,8 @@ foreach ($companyData as $company) {
 
         }
 
-        sleep(1);
-
-        echo "Processed company: " . $company['companyTitle'] . "\n";
+        $remaining--;
+        echo "Processed company: " . $company['companyTitle'] ." remaining: ".$remaining."\n";
 
         $companies [] = $company;
 
@@ -47,5 +53,5 @@ foreach ($companyData as $company) {
 }
 
 $finalSocialsData = json_encode($companies, JSON_PRETTY_PRINT);
-file_put_contents(__DIR__.'/../xml-files/test-data/testJsonDataSocials.json' , $finalSocialsData);
+file_put_contents(__DIR__.'/../xml-files/finalDataList.json' , $finalSocialsData);
 print_r($finalSocialsData);

@@ -1,4 +1,4 @@
-<?php
+<?php /** @noinspection DuplicatedCode */
 
 use voku\helper\HtmlDomParser;
 use voku\helper\XmlDomParser;

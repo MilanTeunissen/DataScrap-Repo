@@ -1,19 +1,27 @@
 [
     {
-        "companyTitle": "Company 1",
-        "companyLink": "https://www.123ledspots.nl",
+        "companyTitle": "123tuinposter",
+        "companyLink": "https://www.123tuinposter.nl",
+        "companyLogo": "https://www.company3.com/logo.png",
+        "companyDescription": "This is a description for Company 3."
+    },
+
+    {
+        "companyTitle": "Zeeman",
+        "companyLink": "https://www.zeeman.com",
         "companyLogo": "https://www.company1.com/logo.png",
         "companyDescription": "This is a description for Company 1."
     },
+
     {
-        "companyTitle": "Company 2",
-        "companyLink": "https://www.123lens.nl",
+        "companyTitle": "Blokker",
+        "companyLink": "https://www.blokker.nl",
         "companyLogo": "https://www.company2.com/logo.png",
         "companyDescription": "This is a description for Company 2."
     },
     {
-        "companyTitle": "Company 3",
-        "companyLink": "https://www.123tuinposter.nl",
+        "companyTitle": "HappySocks",
+        "companyLink": "https://www.happysocks.com",
         "companyLogo": "https://www.company3.com/logo.png",
         "companyDescription": "This is a description for Company 3."
     }

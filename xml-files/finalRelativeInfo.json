@@ -1,0 +1,4594 @@
+[
+    {
+        "url": "https:\/\/www.123lens.nl",
+        "logo": "https:\/\/www.123lens.nl\/skeleton\/assets\/img\/123lens-logo.png",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31182586601",
+                "contactType": "customer service",
+                "availableLanguage": [
+                    "Dutch",
+                    "English"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "123Tuinposter.nl",
+        "url": "https:\/\/www.123tuinposter.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/123tuinposter\/",
+            "https:\/\/twitter.com\/123tuinposter"
+        ]
+    },
+    {
+        "name": "24pharma",
+        "url": "https:\/\/www.24pharma.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/24pharma",
+            "https:\/\/twitter.com\/24pharma",
+            "https:\/\/www.instagram.com\/24pharma.be\/",
+            "https:\/\/www.youtube.com\/channel\/UCd27Rsvtkk0NaQOpJMkZzag",
+            "https:\/\/www.linkedin.com\/company\/24pharma"
+        ]
+    },
+
+    {
+        "name": "43einhalb",
+        "url": "https:\/\/www.43einhalb.com"
+    },
+    {
+        "name": "ACSI",
+        "url": "https:\/\/webshop.acsi.eu\/en\/",
+        "logo": "https:\/\/webshop.acsi.eu\/static\/version1707801500\/frontend\/acsi\/ultimo\/en_GB\/images\/logo.svg",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31488452055",
+                "contactType": "customer service",
+                "contactOption": null,
+                "areaServed": null
+            }
+        ]
+    },
+
+    {
+        "name": "Afound",
+        "url": "https:\/\/www.afound.com\/sv-se",
+        "logo": "https:\/\/www.afound.com\/assets\/images\/svg\/new-site-logo-dark.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/afound",
+            "https:\/\/www.linkedin.com\/company\/afound\/",
+            "https:\/\/www.instagram.com\/afound\/",
+            "https:\/\/www.youtube.com\/channel\/UC7SjOLNyrKN0qTOrowxmHlA"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "M\u00e4ster Samuelsgatan 46A",
+            "addressLocality": "Sweden",
+            "postalCode": "106 38",
+            "addressCountry": "SE"
+        }
+    },
+    {
+        "name": "After Eden",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Klompenmaker 2A",
+            "addressLocality": "Nieuwkuijk",
+            "addressRegion": "Noord-Brabant",
+            "postalCode": "5253 RH",
+            "addressCountry": "Nederland"
+        }
+    },
+    {
+        "name": "Airalo",
+        "url": "https:\/\/www.airalo.com",
+        "logo": "https:\/\/www.airalo.com\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/airalocom",
+            "https:\/\/www.instagram.com\/airalocom\/",
+            "https:\/\/www.linkedin.com\/company\/airalocom",
+            "https:\/\/twitter.com\/airalocom",
+            "https:\/\/www.youtube.com\/channel\/UCPL_PzFyZLgMOWOLIpNlkMw",
+            "https:\/\/vk.com\/airalo"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "email": "support@airalo.com"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "SG",
+            "postalCode": "039594",
+            "streetAddress": "6 Raffles Boulevard #03-308"
+        }
+    },
+    {
+        "name": "albelli",
+        "url": "https:\/\/www.albelli.nl\/",
+        "logo": "https:\/\/www.albelli.nl\/content\/default_albelli.nl.jpg",
+        "socials": [
+            "https:\/\/twitter.com\/albelli_nl",
+            "https:\/\/www.facebook.com\/AlbelliNL",
+            "https:\/\/www.youtube.com\/Albellifotoboeken",
+            "https:\/\/www.pinterest.com\/AlbelliNL\/",
+            "https:\/\/www.instagram.com\/albelli_nl\/"
+        ]
+    },
+    {
+        "name": "Alensa s.r.o.",
+        "url": "https:\/\/www.alensa.nl",
+        "logo": "https:\/\/www.alensa.nl\/globalfiles\/logos\/alensa.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/AlensaNL?ref_type=bookmark",
+            "https:\/\/twitter.com\/Alensa_nl",
+            "https:\/\/instagram.com\/alensa_eu\/",
+            "https:\/\/m.me\/AlensaNL\/?fref=ts",
+            "https:\/\/www.linkedin.com\/company\/alensa-s-r-o-\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "telephone": "+31 205 231 060",
+            "email": "info@alensa.nl",
+            "areaServed": "NL",
+            "availableLanguage": "Dutch"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "\u010ceskomoravsk\u00e1 2408\/1a",
+            "addressLocality": "Praha 9",
+            "postalCode": "19000",
+            "addressCountry": "CZ"
+        }
+    },
+    {
+        "name": "Alensa.nl",
+        "url": "https:\/\/www.alensa.nl",
+        "logo": "https:\/\/www.alensa.nl\/images\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/ContactlenzenOptica",
+            "https:\/\/plus.google.com\/+ContactlenzenopticaNl24",
+            " https:\/\/twitter.com\/LenzenOpticaNL"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "telephone": "+31 205 231 060",
+            "email": "info@alensa.nl",
+            "areaServed": "NL",
+            "availableLanguage": "Dutch"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "\u010ceskomoravsk\u00e1 2408\/1a",
+            "addressLocality": "Praha 9",
+            "postalCode": "19000",
+            "addressCountry": "CZ"
+        }
+    },
+    {
+        "name": "Allianz Direct",
+        "url": "https:\/\/www.allianzdirect.nl",
+        "logo": "https:\/\/www.allianzdirect.nl\/dam\/images\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/AllianzDirectNL\/",
+            "https:\/\/www.instagram.com\/allianzdirectnl\/",
+            "https:\/\/twitter.com\/AllianzDirectNL\/",
+            "https:\/\/www.youtube.com\/allianzdirectnederland",
+            "https:\/\/g.page\/r\/Cbg2FYxoccM4EBM"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31103006540",
+            "contactType": "customer service",
+            "contactOption": "TollFree",
+            "availableLanguage": [
+                "Dutch",
+                "English"
+            ],
+            "hoursAvailable": [
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday"
+                    ],
+                    "opens": "08:30",
+                    "closes": "21:00"
+                },
+                {
+                    "@type": "OpeningHoursSpecification",
+                    "dayOfWeek": "Saturday",
+                    "opens": "09:00",
+                    "closes": "17:00"
+                }
+            ],
+            "areaServed": {
+                "@type": "Country",
+                "name": "NL",
+                "sameAs": "http:\/\/dbpedia.org\/resource\/Netherlands"
+            }
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "The Netherlands",
+            "addressLocality": "Rotterdam",
+            "addressRegion": "Zuid Holland",
+            "postalCode": "3011 AG",
+            "streetAddress": "Coolsingel 120",
+            "@id": "https:\/\/www.allianzdirect.nl\/#adres",
+            "hoursAvailable": {
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "opens": "09:00",
+                "closes": "17:00"
+            }
+        }
+    },
+
+    {
+        "name": "Alpha-Shop",
+        "url": "https:\/\/www.alpha-shop.nl\/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.alpha-shop.nl\/skin\/frontend\/ultimo\/alpha\/images\/alpha_shop_logo2.png",
+            "width": 500,
+            "height": 105
+        },
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-495-218005",
+                "contactType": "customer service",
+                "hoursAvailable": [
+                    {
+                        "@type": "OpeningHoursSpecification",
+                        "opens": "09:00:00",
+                        "closes": "17:00:00",
+                        "dayOfWeek": "http:\/\/schema.org\/Monday"
+                    },
+                    {
+                        "@type": "OpeningHoursSpecification",
+                        "opens": "09:00:00",
+                        "closes": "17:00:00",
+                        "dayOfWeek": "http:\/\/schema.org\/Tuesday"
+                    },
+                    {
+                        "@type": "OpeningHoursSpecification",
+                        "opens": "09:00:00",
+                        "closes": "17:00:00",
+                        "dayOfWeek": "http:\/\/schema.org\/Wednesday"
+                    },
+                    {
+                        "@type": "OpeningHoursSpecification",
+                        "opens": "09:00:00",
+                        "closes": "17:00:00",
+                        "dayOfWeek": "http:\/\/schema.org\/Thursday"
+                    },
+                    {
+                        "@type": "OpeningHoursSpecification",
+                        "opens": "09:00:00",
+                        "closes": "17:00:00",
+                        "dayOfWeek": "http:\/\/schema.org\/Friday"
+                    }
+                ],
+                "availableLanguage": [
+                    "Dutch"
+                ]
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Weert, Netherlands",
+            "postalCode": "6004AD",
+            "streetAddress": "Doctor Schaepmanstraat 19"
+        }
+    },
+    {
+        "address": "Aboutbags NV, Westerring 17, 9700 Oudenaarde, Belgium"
+    },
+
+    {
+        "name": "Anastasia Beverly Hills NL",
+        "url": "https:\/\/www.anastasiabeverlyhills.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/ABHcosmetics",
+            "https:\/\/www.instagram.com\/anastasiabeverlyhills",
+            "https:\/\/www.youtube.com\/c\/AnastasiaBeverlyHills",
+            "https:\/\/twitter.com\/ABHcosmetics",
+            "https:\/\/www.pinterest.com\/ABHcosmetics"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0844 xxxxxxxx",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "Animigo",
+        "url": "https:\/\/www.animigo.nl",
+        "logo": "https:\/\/www.animigo.nl\/assets\/animigo\/animigo.nl\/images\/logo.png",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31-",
+            "contactType": "Customer service",
+            "areaServed": [
+                "NL"
+            ],
+            "availableLanguage": [
+                "Dutch"
+            ]
+        }
+    },
+
+    {
+        "name": "Appelhoes.nl",
+        "socials": "https:\/\/www.kiyoh.com\/reviews\/1044559\/appelhoes"
+    },
+    {
+        "name": "Appelhoes",
+        "socials": "https:\/\/www.kiyoh.com\/reviews\/1044559\/appelhoes",
+        "url": "https:\/\/www.appelhoes.nl"
+    },
+    {
+        "name": "AppLamp.nl",
+        "url": "http:\/\/www.applamp.nl",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/15366\/themes\/6054\/assets\/logo.png",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "name": "ARBOwinkel.nl",
+        "url": "https:\/\/www.arbowinkel.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/290580\/themes\/168009\/v\/2062740\/assets\/logo.png?20231016122951",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "+31 (0) 88 123 0 888"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "ARBOwinkel.nl",
+        "url": "https:\/\/www.arbowinkel.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/290580\/themes\/168009\/v\/2062740\/assets\/logo.png?20231016122951",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "+31 (0) 88 123 0 888"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Art & Craft",
+        "url": "https:\/\/www.artandcraft.com\/be-nl",
+        "logo": "https:\/\/img.artencraft.be\/i\/2885217.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Art.en.Craft.Winkel",
+            "https:\/\/twitter.com\/ArtCraftMedia",
+            "https:\/\/plus.google.com\/111719067991315970600\/about"
+        ]
+    },
+    {
+        "url": "https:\/\/www.asbascomputers.nl",
+        "logo": "https:\/\/www.asbascomputers.nl\/image\/cache\/catalog\/0_AA_OCS\/asbaslogo-300x300.jpg",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31307852041",
+                "contactType": "customer support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31307852041",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31307852041",
+                "contactType": "billing support"
+            }
+        ]
+    },
+
+    {
+        "name": "AttractionTickets.com",
+        "url": "https:\/\/www.attractiontickets.com",
+        "logo": "https:\/\/www.attractiontickets.com\/themes\/custom\/atd\/_src\/svg-sprite\/at-logo-tm.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/AttractionTicketsdotcom\/",
+            "https:\/\/www.instagram.com\/attractionticketsdotcom\/",
+            "https:\/\/twitter.com\/attractiontckts"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "0800 223 0324",
+            "contactType": "customer service"
+        },
+        "address": {
+            "addressCountry": "England",
+            "addressRegion": "London",
+            "postalCode": "SW4 0AN",
+            "streetAddress": "171 Wingate Square"
+        }
+    },
+
+    {
+        "name": "Avantisport",
+        "url": "https:\/\/avantisport.nl\/",
+        "logo": "https:\/\/avantisport.nl\/static\/version1706107750\/frontend\/Avantage\/avantisport\/nl_NL\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/Avantisport",
+            "https:\/\/www.facebook.com\/Avantisport",
+            "https:\/\/www.instagram.com\/avantisport.nl\/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Nederland",
+            "addressLocality": "Alphen aan den Rijn",
+            "postalCode": "2408AN",
+            "streetAddress": "A. van Leeuwenhoekweg 54"
+        }
+    },
+
+    {
+        "name": "AVH-Outdoor Tuinmeubelen",
+        "url": "https:\/\/www.avh-outdoor.nl"
+    },
+    {
+        "url": "https:\/\/www.babista.nl\/",
+        "logo": "https:\/\/www.babista.nl\/out\/ba\/img\/logo.svg"
+    },
+    {
+        "name": "BABOR Cosmetics B.V.",
+        "url": "https:\/\/nl.babor.com",
+        "logo": "https:\/\/nl.babor.com\/content\/images\/tpl\/Babor-Logo-640px.png",
+        "socials": [
+            "https:\/\/instagram.com\/baborofficial",
+            "https:\/\/www.facebook.com\/baborNetherlands"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-10-2619-261",
+                "email": "servicecenter@babor.nl",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+    {
+        "url": "https:\/\/www.batterijenhuis.nl",
+        "logo": "https:\/\/www.batterijenhuis.nl\/image\/cache\/data\/logo-batterijenhuis-300x300.png",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0786816224",
+                "contactType": "customer support"
+            }
+        ]
+    },
+
+    {
+        "name": "Safaripark Beekse Bergen",
+        "url": "www.beeksebergen.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/beeksebergen.nl",
+            "https:\/\/www.instagram.com\/beeksebergen\/",
+            "https:\/\/twitter.com\/beekse_bergen",
+            "https:\/\/www.youtube.com\/c\/BeekseBergen_ned"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 88-9000360",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+    {
+        "name": "Besselinklicht",
+        "url": "https:\/\/www.besselinklicht.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/besselinklicht.nl\/",
+            "https:\/\/www.instagram.com\/besselink_licht\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31263190630",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31263190630",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31263190630",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "6921RJ ",
+            "addressRegion": "Gelderland",
+            "addressLocality": "Duiven"
+        }
+    },
+    {
+        "name": "Best Fightshop - Vechtsportartikelen",
+        "url": "https:\/\/www.bestfightshop.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/26381\/themes\/177409\/v\/774746\/assets\/logo.png?20210719105512",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "073-8884844"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Best Fightshop - Vechtsportartikelen",
+        "url": "https:\/\/www.bestfightshop.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/26381\/themes\/177409\/v\/774746\/assets\/logo.png?20210719105512",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "073-8884844"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Biogroei",
+        "url": "https:\/\/www.biogroei.nl\/",
+        "logo": "https:\/\/www.biogroei.nl\/img\/65g7_892ysp4bN1HoLi_B3zrclF7Xn_Dq3k6ix-zdFE\/resize:fit:0:0\/aHR0cHM6Ly93d3cuYmlvZ3JvZWkubmwvc3RhdGljL3ZlcnNpb24yMDI0MDIxNDEzMzYzMy9mcm9udGVuZC9WZW5kaWMvYmlvZ3JvZWktZWxlbWVudHMtaHl2YS9ubF9OTC9pbWFnZXMvbG9nby5zdmc.svg"
+    },
+    {
+        "name": "Bj\u00f6rn Borg",
+        "url": "https:\/\/www.bjornborg.com\/nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/bjornborg\/",
+            "https:\/\/www.instagram.com\/bjornborg"
+        ],
+        "address": {
+            "streetAddress": "Fr\u00f6sundaviks all\u00e9 1",
+            "addressLocality": "Solna",
+            "postalCode": "169 70",
+            "addressCountry": "Sverige"
+        }
+    },
+
+    {
+        "name": "Blokker",
+        "url": "https:\/\/www.blokker.nl",
+        "logo": "https:\/\/www.blokker.nl\/on\/demandware.static\/Sites-blokker-nl-Site\/-\/default\/dw1519a203\/images\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/BlokkerNL",
+            "https:\/\/www.twitter.com\/blokker",
+            "https:\/\/www.instagram.com\/blokker\/",
+            "https:\/\/nl.pinterest.com\/blokkerNL\/",
+            "https:\/\/nl.wikipedia.org\/wiki\/Blokker_(winkelketen)",
+            "https:\/\/www.wikidata.org\/wiki\/Q33903645"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-889-494-800",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "The Netherlands",
+            "addressLocality": "Amsterdam-Duivendrecht",
+            "addressRegion": "Noord-Holland",
+            "postalCode": "1114 AM",
+            "streetAddress": "Van der Madeweg 13",
+            "postOfficeBoxNumber": "Postbus 94072, 1090 GB Amsterdam"
+        }
+    },
+
+    {
+        "url": "https:\/\/www.bodyworlds.nl\/en\/",
+        "logo": "https:\/\/www.bodyworlds.nl\/media\/1001\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/bodyworldsnl",
+            "https:\/\/twitter.com\/bodyworldsams",
+            "https:\/\/www.instagram.com\/bodyworldsnl\/",
+            "https:\/\/www.youtube.com\/user\/bodyworldsamsterdam",
+            "https:\/\/nl.pinterest.com\/bodyworlds\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31\u00a020 2160 601\u00a0",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "url": "http:\/\/www.vitafy.de\/",
+        "logo": "http:\/\/www.vitafy.de\/skin\/frontend\/vitafy\/default\/prod\/images\/vitafy.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/vitafy.de",
+            "https:\/\/instagram.com\/vitafyofficial",
+            "https:\/\/twitter.com\/VitafyOfficial",
+            "https:\/\/www.pinterest.com\/vitafy\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 20 323 0258",
+                "contactType": "customer service",
+                "contactOption": "TollFree"
+            }
+        ]
+    },
+    {
+        "name": "Boeket   Mixed tulpen"
+    },
+    {
+        "name": "Tijdloos boeket  Springerig wit"
+    },
+    {
+        "name": "Boeket bont  word je blij van..."
+    },
+    {
+        "name": "Voordeel boeket  roze tinten"
+    },
+    {
+        "name": "Narcissen schaal  circa: \u00d8 30cm"
+    },
+    {
+        "name": "Veld geplukte bloemen  roze paars"
+    },
+    {
+        "name": "Bloembollenveld  mixed ca. 26cm"
+    },
+    {
+        "name": "Boeket roze tulpen  + tulpen chocolade"
+    },
+    {
+        "name": "Mixed tulpen bezorgen  Compleet in tasje"
+    },
+    {
+        "name": "Veldgeplukt bont   seizoens boeket"
+    },
+    {
+        "name": "Boeket  roze tulpen"
+    },
+    {
+        "name": "de Geheime tuin  bijzonder kleurrijk"
+    },
+    {
+        "name": "Gelukstreffer boeket  oranje roze"
+    },
+    {
+        "name": "Boeket Alstroemeria  (lang houdbaar)"
+    },
+    {
+        "name": "Boeket  blauw paars wit"
+    },
+    {
+        "name": "Seizoens bloemen   roze en paars"
+    },
+    {
+        "name": "Voordeel boeket  bont"
+    },
+    {
+        "name": "Witte en roze  bloemen"
+    },
+    {
+        "name": "Mixed tulpen  + tulpen chocolade"
+    },
+    {
+        "name": "Witte bloemen +  300 gram bonbons"
+    },
+    {
+        "name": "Boeket bloemen  Rood groen"
+    },
+    {
+        "name": "Seizoensboeket  roze tinten"
+    },
+    {
+        "name": "Goed bezig boeket  geel oranje"
+    },
+    {
+        "name": "Boeket bestellen   in roze - rood"
+    },
+    {
+        "name": "Geplukt seizoens boeket  incl. melkbus vaas"
+    },
+    {
+        "name": "Geplukte roze bloemen  incl. melkbus vaas"
+    },
+    {
+        "name": "Geplukt wit boeket  incl. glazen melkbus vaas"
+    },
+    {
+        "name": "Bonte bloemen  incl. glazen vaas"
+    },
+    {
+        "name": "Rode tulpen  + tulpen chocolade"
+    },
+    {
+        "name": "Pastel bont boeket!"
+    },
+    {
+        "name": "3 flessen met bloemen  in een houder"
+    },
+    {
+        "name": "Voordeel bloemetje  laten bezorgen"
+    },
+    {
+        "name": "Romantisch  rode rozen"
+    },
+    {
+        "name": "Plukboeket bont  bezorgen"
+    },
+    {
+        "name": "Speels boeket  witte bloemen"
+    },
+    {
+        "name": "Gemengd boeket  bonte bloemen"
+    },
+    {
+        "name": "Beterschap boeket +  knuffel Get Well"
+    },
+    {
+        "name": "Plukboeket + kaarsen  happy birthday"
+    },
+    {
+        "name": "Boeket bloemen +  rozen chocolade"
+    },
+    {
+        "name": "Alstroemeria boeket  + bloemen chocolade"
+    },
+    {
+        "name": "Geplukt roze boeket  Hoog laag geschikt"
+    },
+    {
+        "name": "Sensationeel   boeket"
+    },
+    {
+        "name": "Oranje rozen en  3 soorten bloemen"
+    },
+    {
+        "name": "Roze rozen en  3 soorten bloemen"
+    },
+    {
+        "name": "Boeklin",
+        "url": "https:\/\/www.boeklin.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/264760\/themes\/172117\/assets\/logo.png?20240208201411",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "06-41130455"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Boeklin",
+        "url": "https:\/\/www.boeklin.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/264760\/themes\/172117\/assets\/logo.png?20240208201411",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "06-41130455"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Boilergarant",
+        "url": "https:\/\/www.aircogarant.com",
+        "logo": "https:\/\/www.aircogarant.com\/front_assets\/favicon\/boilergarant\/logo-small.png",
+        "socials": [
+            "https:\/\/www.youtube.com\/channel\/UCU5wbfF3H1QUibiSSUqmGMQ",
+            "https:\/\/www.facebook.com\/boilergarant",
+            "https:\/\/www.linkedin.com\/company\/veralnijkerkbv\/",
+            "https:\/\/www.instagram.com\/boilergarantnl\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31332002551",
+                "contactType": "customer service",
+                "areaServed": "nl",
+                "availableLanguage": "Dutch"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Gildenstraat 8",
+            "addressLocality": "Nijkerk",
+            "postalCode": "3861 RG",
+            "addressCountry": "Nijkerk"
+        }
+    },
+
+    {
+        "name": "boohoo",
+        "url": "https:\/\/www.boohoo.com\/",
+        "logo": "https:\/\/www.boohoo.com\/on\/demandware.static\/Sites-boohoo-UK-Site\/-\/default\/dw2c3f1289\/images\/logo.png"
+    },
+    {
+        "name": "BookBeat",
+        "url": "https:\/\/www.bookbeat.com",
+        "logo": "https:\/\/www.bookbeat.com\/images\/favicons\/mstile-310x310.png"
+    },
+    {
+        "url": "https:\/\/www.booking.com",
+        "logo": "https:\/\/cf.bstatic.com\/static\/img\/booking_logo_knowledge_graph\/247454a990efac1952e44dddbf30c58677aa0fd8.png",
+        "socials": [
+            "https:\/\/en.wikipedia.org\/wiki\/Booking.com",
+            "https:\/\/www.instagram.com\/bookingcom\/",
+            "https:\/\/twitter.com\/bookingcom",
+            "https:\/\/www.facebook.com\/bookingcom\/",
+            "https:\/\/www.tiktok.com\/@bookingcom"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Netherlands",
+            "addressRegion": "Noord-Holland",
+            "addressLocality": "Amsterdam",
+            "postOfficeBoxNumber": "1639",
+            "postalCode": "1011 DL",
+            "streetAddress": "Oosterdokskade 163"
+        }
+    },
+    {
+        "name": "Bosch Huishoudapparaten",
+        "url": "https:\/\/www.bosch-home.nl\/",
+        "socials": [
+            "$sameas"
+        ],
+        "contactInformation": {
+            "@context": "https:\/\/schema.org",
+            "@type": "ContactPoint",
+            "telephone": "088 424 4010",
+            "contactType": "Klantenservice",
+            "areaServed": [
+                "NL"
+            ]
+        }
+    },
+    {
+        "name": "Bose",
+        "url": "https:\/\/www.bose.nl\/nl_nl\/index.html",
+        "logo": "https:\/\/static.bose.com\/etc\/designs\/bose\/base2016\/design\/images\/bose_logo.png",
+        "socials": [
+            "https:\/\/www.youtube.com\/Bose",
+            "https:\/\/twitter.com\/Bose",
+            "https:\/\/www.instagram.com\/Bose",
+            "https:\/\/www.facebook.com\/BoseNL\/",
+            "https:\/\/www.linkedin.com\/company\/bose-corporation\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "088-0333-040",
+                "contactType": "Klantenservice",
+                "areaServed": "NL"
+            }
+        ]
+    },
+
+    {
+        "name": "bouFFante",
+        "url": "https:\/\/www.bouffante.nl\/",
+        "logo": "https:\/\/www.bouffante.nl\/logo.svg",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 10 251 98 73",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 10 251 98 73",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "addressLocality": "Rotterdam"
+        }
+    },
+    {
+        "name": "bouwsales.nl",
+        "url": "https:\/\/www.bouwsales.nl\/"
+    },
+    {
+        "url": "https:\/\/www.brasty.nl\/",
+        "logo": "https:\/\/brastygroup.vshcdn.net\/assets\/_common\/images\/logo.svg"
+    },
+    {
+        "name": "Broyeurwereld.nl",
+        "url": "https:\/\/www.broyeurwereld.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/290667\/themes\/169402\/v\/217650\/assets\/logo.png?20201001145651",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "+31(0)85-0735774"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Broyeurwereld.nl",
+        "url": "https:\/\/www.broyeurwereld.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/290667\/themes\/169402\/v\/217650\/assets\/logo.png?20201001145651",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "+31(0)85-0735774"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Bugaboo",
+        "url": "https:\/\/www.bugaboo.com\/nl-nl",
+        "logo": "https:\/\/apiassets.bugaboo.com\/binaries\/content\/gallery\/bugaboocms\/home\/logo-380x380.png",
+        "socials": "https:\/\/en.wikipedia.org\/wiki\/Bugaboo_International"
+    },
+    {
+        "name": "Bulk\u2122\ufe0f",
+        "url": "https:\/\/www.bulk.com\/",
+        "logo": "https:\/\/www.bulk.com\/static\/version1611042856\/frontend\/BulkPowders\/old-rebrand\/default\/images\/logo.png",
+        "socials": [
+            "https:\/\/www.instagram.com\/bulk\/",
+            "https:\/\/twitter.com\/bulkofficial",
+            "https:\/\/www.facebook.com\/bulk",
+            "https:\/\/www.youtube.com\/bulk",
+            "https:\/\/open.spotify.com\/user\/0d8g4wsvos43dchs2ssyuf5kf",
+            "https:\/\/www.tiktok.com\/@bulkpowders?lang=en",
+            "https:\/\/www.linkedin.com\/company\/bulkofficial\/mycompany\/",
+            "https:\/\/www.pinterest.co.uk\/officialbulk\/"
+        ]
+    },
+    {
+        "name": "Canon Nederland",
+        "url": "https:\/\/www.canon.nl\/",
+        "logo": "http:\/\/i1.adis.ws\/i\/canon\/canon-press-centre-canon-logo_301414581785538?w=550&qlt=100&bg=rgb(255,255,255)",
+        "socials": [
+            "https:\/\/www.facebook.com\/CanonNederland",
+            "https:\/\/twitter.com\/CanonNederland",
+            "https:\/\/www.instagram.com\/canonnederland\/",
+            "https:\/\/www.linkedin.com\/company\/canon-emea\/",
+            "https:\/\/www.youtube.com\/user\/CanonEurope"
+        ]
+    },
+    {
+        "name": "Carl Denig",
+        "url": "https:\/\/www.carldenig.nl\/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.carldenig.nl\/img\/logo-1660809929.jpg"
+        }
+    },
+    {
+        "name": "Carpworld.com ",
+        "url": "https:\/\/www.carpworld.com\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/303793\/themes\/175420\/assets\/logo.png?20240205112343"
+    },
+    {
+        "name": "Casino777.nl",
+        "url": "https:\/\/www.casino777.nl\/",
+        "logo": "https:\/\/s3-eu-west-1.amazonaws.com\/tpd\/logos\/617b87743e0299505641c2f2\/0x0.png",
+        "socials": "https:\/\/nl.trustpilot.com\/review\/casino777.nl"
+    },
+    {
+        "name": "Christine le Duc",
+        "url": "https:\/\/www.christineleduc.nl",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Phoenixweg 6",
+            "addressLocality": "Veendam",
+            "postalCode": "9641KS",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "name": "CoolSound Superstore B.V.",
+        "url": "https:\/\/www.coolsound.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/CoolSound\/",
+            "https:\/\/twitter.com\/coolsoundnl",
+            "https:\/\/nl.linkedin.com\/company\/coolsound-superstore-b-v-"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31384670021",
+                "contactType": "Customer Service"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Zwolle, Netherlands",
+            "postalCode": "8013 PE",
+            "streetAddress": "Marsweg 59",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "name": "Corendon Airlines",
+        "url": "https:\/\/www.corendonairlines.com",
+        "logo": "https:\/\/www.corendonairlines.com\/Images\/cai-logo.png",
+        "socials": [
+            "https:\/\/www.linkedin.com\/company\/corendon-airlines",
+            "https:\/\/www.facebook.com\/CorendonAirlines",
+            "https:\/\/www.twitter.com\/Corendon_Air",
+            "https:\/\/www.youtube.com\/user\/CorendonAirlines",
+            "https:\/\/www.instagram.com\/corendon-airlines",
+            "https:\/\/tr.wikipedia.org\/wiki\/Corendon_Airlines",
+            "https:\/\/tr.pinterest.com\/corendonairline\/",
+            "https:\/\/www.tiktok.com\/@corendonairlines"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+44-20-388-543-30",
+            "email": "aytll@corendon-airlines.com",
+            "contactType": "Customer service",
+            "availableLanguage": [
+                "tr",
+                "en",
+                "da",
+                "de",
+                "nl",
+                "pl"
+            ]
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Antalya",
+            "addressRegion": "Antalya",
+            "postalCode": "07200",
+            "streetAddress": "G\u00fczeloluk Mah. 1879 Sok. no:148, Muratpa\u015fa Antalya"
+        }
+    },
+    {
+        "name": "Correctbook",
+        "url": "https:\/\/www.correctbook.com\/nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/correctbook",
+            "https:\/\/twitter.com\/correctbook",
+            "http:\/\/www.instagram.com\/wearecorrectbook",
+            "https:\/\/www.youtube.com\/channel\/UCBN3Nq1dn6GzZpTz8w56otg",
+            "https:\/\/nl.linkedin.com\/company\/correctbook"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-103105099",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-103105099",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-103105099",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "3024EZ",
+            "addressLocality": "Rotterdam"
+        }
+    },
+    {
+        "url": "https:\/\/www.cosmopolitan.com\/"
+    },
+    {
+        "url": "https:\/\/www.cultbeauty.com",
+        "logo": "https:\/\/s1.thcdn.com\/enterprise\/assets\/cbeauty-global-1d5b0de8-4bb3-43c9-868e-c9f4dde815fd-logo-default.svg"
+    },
+
+    {
+        "name": "Daily Style",
+        "url": "https:\/\/dailystyle.nl\/",
+        "logo": "https:\/\/dailystyle.nl\/static\/version1706780707\/frontend\/DailyStyle\/default\/nl_NL\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/DailyStyle.NL",
+            "http:\/\/twitter.com\/DailyStyle_",
+            "https:\/\/instagram.com\/dailystyle_nl\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "0206671921",
+            "contactType": "Customer Service"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Tussen Meer",
+            "addressLocality": "NL",
+            "addressRegion": null,
+            "postalCode": "1069DZ"
+        }
+    },
+    {
+        "name": "DC Shoes",
+        "url": "https:\/\/www.dcshoes-netherlands.nl\/",
+        "logo": "https:\/\/www.dcshoes-netherlands.nl\/on\/demandware.static\/-\/Sites-DC-NL-Library\/nl_NL\/v1708045541579\/images\/logo-dc@2x.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/dcshoes\/",
+            "https:\/\/twitter.com\/dcshoes",
+            "http:\/\/instagram.com\/dcshoes",
+            "http:\/\/www.youtube.com\/user\/DCshoesFILM",
+            "https:\/\/www.pinterest.com\/dcshoes\/",
+            "https:\/\/plus.google.com\/+dcshoes",
+            "http:\/\/vk.com\/dcrussia",
+            "https:\/\/www.linkedin.com\/company\/quiksilver"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 85 8881 307",
+                "contactType": "customer service",
+                "contactOption": "LocalRates",
+                "areaServed": [
+                    "NL"
+                ],
+                "availableLanguage": [
+                    [
+                        "Dutch"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "name": "De Huisdiersuper",
+        "url": "https:\/\/www.dehuisdiersuper.nl\/",
+        "logo": "",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Nederland",
+            "addressLocality": "Nieuwkuijk",
+            "addressRegion": "Noord-Brabant",
+            "postalCode": "5253 CA",
+            "streetAddress": "Middelweg 32"
+        }
+    },
+
+    {
+        "name": "Dealdonkey",
+        "socials": "https:\/\/www.kiyoh.com\/reviews\/1042346\/dealdonkey"
+    },
+
+    {
+        "name": "Decoprof.nl",
+        "url": "https:\/\/www.decoprof.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/283835\/themes\/162798\/v\/2175235\/assets\/logo.png?20240106112009",
+        "socials": "https:\/\/www.facebook.com\/nldecoprof",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "085 - 3037813"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Deens",
+        "url": "https:\/\/www.deens.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/77324\/themes\/160525\/assets\/logo.png?20240215091150",
+        "socials": [
+            "https:\/\/www.instagram.com\/deensnl\/",
+            "https:\/\/www.facebook.com\/DeensNL",
+            "https:\/\/twitter.com\/deensnl",
+            "https:\/\/nl.pinterest.com\/deensnl\/"
+        ]
+    },
+    {
+        "name": "DefShop",
+        "url": "https:\/\/www.def-shop.nl\/",
+        "logo": "https:\/\/www.def-shop.nl\/_nuxt\/img\/logo.21a0dc2.svg"
+    },
+
+    {
+        "name": "DesignOnline24",
+        "url": "https:\/\/designonline24.nl\/",
+        "logo": "https:\/\/designonline24.nl\/media\/logo\/stores\/1\/DO24-Zwart_1.png",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Nederland",
+            "addressLocality": "Hoofddorp",
+            "postalCode": "2132 LS",
+            "streetAddress": "Taurusavenue 3"
+        }
+    },
+    {
+        "name": "Deurklinkenshop",
+        "url": "https:\/\/www.deurklinkenshop.be\/nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/41305\/themes\/178211\/v\/959015\/assets\/logo.png?20211109095757",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "+32 11 81 41 61"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": " Heikant 11",
+            "addressLocality": "Hamont-Achel",
+            "addressRegion": "",
+            "postalCode": "3930",
+            "addressCountry": "Belgi\u00eb"
+        }
+    },
+    {
+        "name": "EasyToys",
+        "url": "https:\/\/www.easytoys.nl",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Phoenixweg 6",
+            "addressLocality": "Veendam",
+            "postalCode": "9641KS",
+            "addressCountry": "NL"
+        }
+    },
+
+    {
+        "name": "Emirates",
+        "url": "https:\/\/www.emirates.com",
+        "logo": "https:\/\/c.ekstatic.net\/ecl\/logos\/emirates\/emirates-logo-badge.png?h=92eccf0eda0a52c4a48b7a7c802d4a99",
+        "socials": [
+            "https:\/\/www.facebook.com\/Emirates",
+            "https:\/\/twitter.com\/emirates",
+            "https:\/\/www.youtube.com\/user\/EMIRATES",
+            "https:\/\/www.linkedin.com\/company\/emirates\/"
+        ]
+    },
+    {
+        "url": "https:\/\/www.esprit.nl\/",
+        "logo": "https:\/\/www.esprit.nl\/on\/demandware.static\/Sites-EspritMainHub-Site\/-\/default\/dwd70418d1\/images\/logo.svg"
+    },
+    {
+        "name": "Euroflorist",
+        "url": "https:\/\/www.euroflorist.nl",
+        "logo": "https:\/\/cdn.euroflorist.com\/cmspr\/Nl\/eflogotopnl@x20.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/euroflorist.nederland\/",
+            "https:\/\/www.instagram.com\/euroflorist_nederland\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "(+31) 0207028100",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "Banden kopen, services, airco en uitlijnen | Euromaster",
+        "url": "https:\/\/www.euromaster.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/euromaster.nl",
+            "https:\/\/www.linkedin.com\/company\/euromaster-nederland",
+            "https:\/\/www.youtube.com\/user\/EuromasterNL"
+        ]
+    },
+    {
+        "name": "Europcar",
+        "url": "https:\/\/www.europcar.com\/en-us?xtor=ES-7300-%5BCOM_Postbooking_bodySXS_2018%5D&amp;utm_medium=email&amp;utm_source=lifecycle&amp;utm_campaign=postbooking&amp;utm_term=postbooking_bodySXS_com_2018&amp;utm_id=0&amp;sfmc_id=51980652&amp;ad_destination&amp;ad_target&amp;master_campaign_ID&amp;utm_content=crm",
+        "logo": "\/_nuxt\/img\/europcar-signature-green@3x.a2d761a.png"
+    },
+    {
+        "name": "Europcar",
+        "url": "https:\/\/www.europcar.com\/en-us?xtor=ES-7300-%5BCOM_Postbooking_bodySXS_2018%5D&amp;utm_medium=email&amp;utm_source=lifecycle&amp;utm_campaign=postbooking&amp;utm_term=postbooking_bodySXS_com_2018&amp;utm_id=0&amp;sfmc_id=51980652&amp;ad_destination&amp;ad_target&amp;master_campaign_ID&amp;utm_content=crm",
+        "logo": "\/_nuxt\/img\/europcar-signature-green@3x.a2d761a.png"
+    },
+
+    {
+        "name": "Farmaline",
+        "url": "https:\/\/www.farmaline.nl\/",
+        "logo": "https:\/\/www.farmaline.nl\/dist\/images\/bitmaps\/farmaline_logo_2024.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/farmaline",
+            "https:\/\/twitter.com\/farmaline",
+            "https:\/\/www.linkedin.com\/company\/farmaline"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "telephone": "+31858886188"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Sevenum, The Netherlands",
+            "postalCode": "5975 WD",
+            "streetAddress": "Erik de Rodeweg 11-13"
+        }
+    },
+    {
+        "name": "Fashion Musthaves",
+        "url": "https:\/\/www.fashionmusthaves.nl\/",
+        "logo": "https:\/\/www.fashionmusthaves.be\/images\/svg-fashion-musthaves-icon.svg"
+    },
+    {
+        "name": "Feenstra",
+        "url": "https:\/\/www.feenstra.com\/",
+        "logo": "\/_resources\/themes\/default\/images\/logo.png",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Lelystad",
+            "postalCode": "8200 AB",
+            "addressCountry": "NL",
+            "streetAddress": "Postbus 88",
+            "description": "D\u00e9 landelijke expert in verwarming, advies, cv-ketel onderhoud, ventilatie, beveiliging en zonnepanelen.",
+            "name": "Feenstra",
+            "telephone": "088 8455 000",
+            "url": "https:\/\/www.feenstra.com\/",
+            "sameAs": [
+                "https:\/\/twitter.com\/Feenstra",
+                "https:\/\/www.facebook.com\/Feenstracom",
+                "https:\/\/www.youtube.com\/feenstrawarmte?sub_confirmation=1",
+                "https:\/\/www.linkedin.com\/company\/feenstra"
+            ]
+        }
+    },
+    {
+        "name": "Flink SE",
+        "url": "https:\/\/www.goflink.com\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/FlinkGermany\/",
+            "https:\/\/www.instagram.com\/flinkgermany\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+491741939374",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "FOIR",
+        "url": "https:\/\/foir.nl\/",
+        "logo": "https:\/\/foir.nl\/static\/version1705081609\/frontend\/Smartwave\/foir\/nl_NL\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.youtube.com\/@FOIRlampen",
+            "https:\/\/www.linkedin.com\/company\/foir\/",
+            "https:\/\/www.instagram.com\/foir.nl\/",
+            "https:\/\/nl.pinterest.com\/FOIRnl\/",
+            "https:\/\/twitter.com\/FOIRnl"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NL",
+            "postalCode": "2712PB",
+            "streetAddress": "Bleiswijkseweg 37C",
+            "addressRegion": "Zoetermeer"
+        }
+    },
+
+    {
+        "url": "https:\/\/www.footpatrol.nl\/",
+        "logo": "https:\/\/www.footpatrol.nl\/\/skins\/footpatrolgb-desktop\/public\/img\/icons\/app\/favicon-192x192.png"
+    },
+    {
+        "name": "Fuelyourbody",
+        "url": "https:\/\/www.fuelyourbody.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/fuelyourbodynl\/",
+            "https:\/\/www.instagram.com\/fuelyourbody_official\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31612629243",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31612629243",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31612629243",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "6101 WT",
+            "addressLocality": "Echt"
+        }
+    },
+    {
+        "name": "FysioTape",
+        "url": "https:\/\/www.fysiotape.nl",
+        "logo": "https:\/\/www.fysiotape.nl\/wp-content\/themes\/illdy-child-fysio\/img\/logo-fysiotape.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/fysiotape",
+            "https:\/\/twitter.com\/fysiotape",
+            "https:\/\/www.youtube.com\/user\/FysioTape1"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 53 478 1900",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Josink Kolkweg 18",
+            "addressLocality": "Enschede",
+            "addressRegion": "Overijssel",
+            "postalCode": "7545PR",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "name": "Gallery Color"
+    },
+    {
+        "name": "Gallery Color",
+        "url": "\/",
+        "logo": "https:\/\/www.gallerycolor.nl\/themes\/gallerycolor16\/img\/gallerycolor-logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/GalleryColor\/",
+            "https:\/\/www.youtube.com\/channel\/UCagwI3urpTO1iN9296PnGXQ",
+            "https:\/\/nl.pinterest.com\/gallerycolor",
+            "https:\/\/www.instagram.com\/gallerycolor"
+        ],
+        "address": ""
+    },
+    {
+        "name": "GANNI",
+        "url": "https:\/\/www.ganni.com\/en-be\/home",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.ganni.com\/on\/demandware.static\/Sites-ganni-Site\/-\/default\/dw2e77d0c9\/images\/logo.jpg",
+            "width": "120",
+            "height": "31"
+        },
+        "socials": [
+            "https:\/\/www.instagram.com\/ganni\/",
+            "https:\/\/www.facebook.com\/ganniofficial",
+            "https:\/\/www.youtube.com\/c\/GANNI",
+            "https:\/\/www.tiktok.com\/@ganni_official?lang=en",
+            "https:\/\/en.wikipedia.org\/wiki\/Ganni"
+        ]
+    },
+    {
+        "name": "GANNI",
+        "url": "https:\/\/www.ganni.com\/en-be\/home",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.ganni.com\/on\/demandware.static\/Sites-ganni-Site\/-\/default\/dw2e77d0c9\/images\/logo.jpg",
+            "width": "120",
+            "height": "31"
+        },
+        "socials": [
+            "https:\/\/www.instagram.com\/ganni\/",
+            "https:\/\/www.facebook.com\/ganniofficial",
+            "https:\/\/www.youtube.com\/c\/GANNI",
+            "https:\/\/www.tiktok.com\/@ganni_official?lang=en",
+            "https:\/\/en.wikipedia.org\/wiki\/Ganni"
+        ]
+    },
+    {
+        "name": "GANT",
+        "url": "https:\/\/gant.com",
+        "logo": "https:\/\/cdn-jura.gant.com\/bundles\/gantpage\/svg\/gant.svg?edda918ef7",
+        "socials": [
+            "https:\/\/www.facebook.com\/gant",
+            "https:\/\/twitter.com\/GANT1949",
+            "https:\/\/www.youtube.com\/user\/GANTvideos",
+            "https:\/\/en.wikipedia.org\/wiki\/Gant_(retailer)",
+            "https:\/\/www.instagram.com\/gant\/",
+            "https:\/\/www.wikidata.org\/wiki\/Q1493667"
+        ]
+    },
+    {
+        "name": "Garden of Life Netherlands",
+        "url": "https:\/\/www.gardenoflife.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/gardenoflifenl\/",
+            "https:\/\/www.instagram.com\/gardenoflifenl\/",
+            "",
+            "",
+            ""
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0844 xxxxxxxx",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "url": "https:\/\/www.gewoonstijl.nl\/",
+        "logo": "https:\/\/www.gewoonstijl.nl\/static\/version1702915373\/frontend\/Gewoonstijl\/default\/nl_NL\/images\/logo.svg"
+    },
+    {
+        "name": "Gloeilampgoedkoop",
+        "url": "https:\/\/gloeilampgoedkoop.nl\/",
+        "logo": "https:\/\/gloeilampgoedkoop.nl\/static\/version1708328731\/frontend\/Gloeilamp\/default\/nl_NL\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/gloeilampgoedkoop.nl",
+            "https:\/\/www.instagram.com\/gloeilampgoedkoop.nl"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Nederland",
+            "postalCode": "6541 BM",
+            "streetAddress": "Mercuriusstraat 5"
+        }
+    },
+    {
+        "name": "Goldcar",
+        "url": "https:\/\/www.goldcar.es\/",
+        "logo": "https:\/\/www.goldcar.es\/assets\/img\/goldcar.svg",
+        "socials": [
+            "https:\/\/www.youtube.com\/user\/goldcarrental\/",
+            "https:\/\/www.facebook.com\/goldcarspain\/",
+            "https:\/\/www.goldcarhelp.com",
+            "https:\/\/twitter.com\/goldcarESP\/",
+            "https:\/\/www.linkedin.com\/company\/goldcar-rental\/",
+            "https:\/\/corporate.goldcar.es",
+            "https:\/\/www.ongoldroad.com"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Camino el Campet, s\/n",
+            "addressLocality": "Sant Joan d'Alacant",
+            "postalCode": "03550",
+            "addressRegion": "Alicante",
+            "addressCountry": "ES"
+        }
+    },
+    {
+        "url": "https:\/\/www.goodbricks.nl\/",
+        "logo": "https:\/\/www.goodbricks.nl\/skin\/frontend\/goodstore\/default\/images\/Goodbricks_logo.svg"
+    },
+    {
+        "name": "Grandado",
+        "url": "https:\/\/www.grandado.com\/",
+        "logo": "https:\/\/www.grandado.com\/_next\/static\/media\/logo.a7ab8794.svg"
+    },
+    {
+        "name": "Gsmpunt",
+        "url": "https:\/\/www.gsmpunt.nl\/"
+    },
+    {
+        "url": "http:\/\/www.vitafy.de\/",
+        "logo": "http:\/\/www.vitafy.de\/skin\/frontend\/vitafy\/default\/prod\/images\/vitafy.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/vitafy.de",
+            "https:\/\/instagram.com\/vitafyofficial",
+            "https:\/\/twitter.com\/VitafyOfficial",
+            "https:\/\/www.pinterest.com\/vitafy\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0800-0232505",
+                "contactType": "customer service",
+                "contactOption": "TollFree"
+            }
+        ]
+    },
+    {
+        "url": "https:\/\/www.haarshop.nl\/",
+        "logo": "https:\/\/www.haarshop.nl\/static\/version1708073071\/frontend\/BigBridge\/theme-haarshop\/nl_NL\/images\/logo.svg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": null,
+            "addressRegion": null,
+            "addressCountry": null,
+            "postalCode": null,
+            "streetAddress": " "
+        }
+    },
+    {
+        "name": "hairworldshop.nl",
+        "url": "https:\/\/www.hairworldshop.nl\/",
+        "logo": "https:\/\/www.hairworldshop.nl\/media\/yourstore\/logo\/default\/HWS_Logo-Final-Wit-voor_Magento2_3.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Hairworldshop",
+            "https:\/\/twitter.com\/hairworldshop",
+            "https:\/\/www.instagram.com\/hairworldshop",
+            "https:\/\/www.youtube.com\/channel\/UCZ8tqbSoBKs6ZHfpKNqIf7Q"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 033 494 41 40",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 033 494 41 40",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 033 494 41 40",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "3811EX",
+            "addressRegion": "Utrecht",
+            "addressLocality": "Amersfoort"
+        }
+    },
+    {
+        "name": "Halara",
+        "url": "https:\/\/thehalara.com"
+    },
+    {
+        "name": "Happinez",
+        "url": "https:\/\/www.happinez.nl",
+        "socials": [
+            "http:\/\/www.facebook.nl\/happinez.nl",
+            "https:\/\/twitter.com\/http:\/\/twitter.com\/#!\/happinezNL",
+            "http:\/\/www.pinterest.com\/happineznl\/",
+            "https:\/\/www.instagram.com\/happinez",
+            "https:\/\/www.youtube.com\/user\/HappinezMagazine\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer support"
+            }
+        ]
+    },
+
+    {
+        "name": "Happy Socks AB",
+        "url": "https:\/\/www.happysocks.com",
+        "logo": "https:\/\/media.happysocks.com\/maintenance\/happysocks.png",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Stockholm, Sweden",
+            "postalCode": "SE-115 26",
+            "streetAddress": "Karlav\u00e4gen 102 4tr"
+        }
+    },
+    {
+        "name": "Harman kardon",
+        "url": "http:\/\/www.harmankardon.com",
+        "socials": [
+            "https:\/\/www.facebook.com\/harmankardon",
+            "https:\/\/twitter.com\/harmankardon",
+            "http:\/\/www.pinterest.com\/harmankardoninc",
+            "http:\/\/instagram.com\/harmankardon",
+            "https:\/\/plus.google.com\/+harmankardon\/posts?_ga=1.260865229.1710495996.1371672087",
+            "http:\/\/www.youtube.com\/harmankardon"
+        ]
+    },
+    {
+        "name": "Heinen Delfts Blauw",
+        "url": "https:\/\/www.heinendelftsblauw.nl",
+        "logo": "https:\/\/www.heinendelftsblauw.nl\/front_assets\/img\/brand\/logo.png",
+        "socials": [
+            "https:\/\/twitter.com\/heinendb",
+            "https:\/\/www.facebook.com\/heinendelftsblauw\/",
+            "https:\/\/www.linkedin.com\/heinendelftsblauw",
+            "https:\/\/www.instagram.com\/heinendelftsblauw\/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Industrieweg 7",
+            "addressLocality": "Putten",
+            "postalCode": "3881 LB",
+            "addressCountry": "The Netherlands"
+        }
+    },
+    {
+        "name": "HEMA",
+        "url": "https:\/\/www.hema.nl\/",
+        "logo": [
+            "https:\/\/www.hema.nl\/on\/demandware.static\/\/Sites-HemaNL-Library\/nl_NL\/dw8fbaacae\/geschiedenis-hema\/logo\/HEMA-content-2021-wk-E-logo6-nu.jpg",
+            "https:\/\/www.hema.nl\/on\/demandware.static\/Sites-HemaNL-Site\/\/default\/dw56fe0d30\/images\/logo.svg"
+        ],
+        "socials": [
+            "https:\/\/www.facebook.com\/hema",
+            "https:\/\/twitter.com\/hema",
+            "https:\/\/www.instagram.com\/hemanederland\/",
+            "https:\/\/www.youtube.com\/channel\/UCCtIMLx0KM_z5K-yI_bqYPg",
+            "https:\/\/nl.linkedin.com\/company\/hema",
+            "https:\/\/nl.pinterest.com\/echthema\/",
+            "https:\/\/nl.wikipedia.org\/wiki\/HEMA"
+        ]
+    },
+    {
+        "name": "HISTORIA GmbH",
+        "url": "https:\/\/www.historia.net\/de-de\/",
+        "logo": "https:\/\/www.historia.net\/static\/version1706080137\/frontend\/ClawRock\/his\/de_DE\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.youtube.com\/channel\/UC_mGTHC1-6ZqhafYOFX4ZCw\/videos",
+            "https:\/\/www.facebook.com\/historia.net",
+            "https:\/\/www.linkedin.com\/company\/historia-gmbh\/?originalSubdomain=de",
+            "https:\/\/www.facebook.com\/historia.net",
+            "https:\/\/www.pinterest.de\/historiagmbh\/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Deutschland",
+            "addressLocality": "Freiburg",
+            "postalCode": "D-79106",
+            "streetAddress": "Berta-Ottenstein-Str. 19",
+            "addressRegion": "BAW"
+        }
+    },
+    {
+        "name": "HOBO Hifi",
+        "url": "https:\/\/www.hobo.nl\/",
+        "address": {
+            "addressCountry": "Nederland"
+        }
+    },
+    {
+        "name": "Hockeygear"
+    },
+    {
+        "name": "HOMAIR VACANCES",
+        "url": "https:\/\/www.homair.com",
+        "logo": "https:\/\/cdn-2.homair.com\/gfx\/logos\/HV\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/homair",
+            "https:\/\/twitter.com\/CampingHomair",
+            "https:\/\/www.youtube.com\/channel\/UCUBBBllGkL-z07KiyVLu9JA",
+            "https:\/\/www.instagram.com\/homairvacances\/",
+            "https:\/\/fr.wikipedia.org\/wiki\/Homair_Vacances"
+        ]
+    },
+    {
+        "name": "Horloge.nl",
+        "url": "https:\/\/www.horloge.nl"
+    },
+    {
+        "name": "IkenIK",
+        "url": "https:\/\/www.ikenik.nl\/",
+        "logo": "https:\/\/www.ikenik.nl\/media\/logo\/stores\/1\/ikenik-logo4_1.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/ikenik.nl\/",
+            "https:\/\/twitter.com\/IKenIKShop",
+            "https:\/\/www.instagram.com\/ikenik.voorbabyskids\/",
+            "https:\/\/www.pinterest.com\/IKenIKShop\/"
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "4041 CP",
+            "addressRegion": "Gelderland",
+            "addressLocality": "Kesteren",
+            "streetAddress": "Hogeveldseweg 2"
+        }
+    },
+    {
+        "name": "Inktweb.nl",
+        "url": "https:\/\/www.inktweb.nl",
+        "logo": "https:\/\/www.inktweb.nl\/images\/inktweb-logo.svg",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": " Professor van der Waalsstraat 2",
+            "addressLocality": "Alkmaar",
+            "addressRegion": "Noord-Holland",
+            "postalCode": "1821 BT",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "name": "Intergard Import Export BV",
+        "url": "https:\/\/www.intergard.eu\/",
+        "logo": "https:\/\/www.intergardshop.de\/media\/logo\/default\/logo.png",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Nederland",
+            "addressLocality": "Wierden",
+            "postalCode": "7641 AA",
+            "streetAddress": "Ambachtsweg 8"
+        }
+    },
+    {
+        "name": "Internet-bikes",
+        "url": "https:\/\/www.internet-bikes.com\/"
+    },
+    {
+        "url": "https:\/\/www.iphone-cases.nl",
+        "logo": "https:\/\/www.iphone-cases.nl\/skin\/frontend\/smartwave\/porto\/images\/iPhone%20hoesjes%20en%20accessoires.png",
+        "socials": "https:\/\/www.kiyoh.com\/reviews\/1045793\/iphone-cases_nl",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31(0)33-8200333",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Netherlands",
+            "addressRegion": "Utrecht",
+            "postalCode": "3812RJ",
+            "streetAddress": "Uraniumweg 37",
+            "email": "service@2hills.nl",
+            "telephone": "+31(0)338200333",
+            "description": "Hoesjes en accessoires voor Apple iPhone, iPad, MacBook & Watch"
+        }
+    },
+
+    {
+        "name": "JACK WOLFSKIN Retail GmbH",
+        "url": "https:\/\/www.jack-wolfskin.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/JACKWOLFSKINofficial\/",
+            "https:\/\/plus.google.com\/+jackwolfskin_brand",
+            "https:\/\/www.instagram.com\/jackwolfskin\/",
+            "https:\/\/www.linkedin.com\/company\/2986831\/",
+            "https:\/\/www.pinterest.de\/jackwolfskin\/",
+            "https:\/\/twitter.com\/jackwolfskin",
+            "https:\/\/www.youtube.com\/jackwolfskin"
+        ]
+    },
+    {
+        "url": "https:\/\/www.jaggsalarm.nl\/nl",
+        "logo": "https:\/\/www.jaggsalarm.nl\/image\/cache\/catalog\/jaggalarmlogo-300x300.jpg"
+    },
+    {
+        "url": "https:\/\/www.jan-magazine.nl\/"
+    },
+    {
+        "url": "https:\/\/www.jdsports.nl\/",
+        "logo": "https:\/\/www.jdsports.nl\/\/skins\/jdsports-desktop\/public\/img\/icons\/app\/favicon-192x192.png"
+    },
+    {
+        "name": "JHP Fashion",
+        "url": "https:\/\/www.jhpfashion.nl",
+        "logo": "https:\/\/www.jhpfashion.nl\/assets\/logo.png"
+    },
+    {
+        "name": "Jimdo GmbH",
+        "url": "https:\/\/www.jimdo.com",
+        "socials": [
+            "https:\/\/www.facebook.com\/Jimdo\/",
+            "https:\/\/twitter.com\/jimdo"
+        ]
+    },
+
+    {
+        "name": "Just Russel",
+        "url": "https:\/\/justrussel.nl\/"
+    },
+    {
+        "name": "KaartDirect",
+        "url": "https:\/\/kaartdirect.nl",
+        "logo": "https:\/\/kaartdirect.nl\/assets\/files\/branding\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/kaartdirect\/",
+            "https:\/\/www.instagram.com\/kaartdirect"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "email": "info@kaartdirect.nl",
+                "contactType": "Support"
+            }
+        ]
+    },
+    {
+        "name": "Kabeldirect",
+        "url": "https:\/\/kabeldirect.nl",
+        "logo": "https:\/\/www.kabeldirect.nl\/media\/vector\/bb\/81\/b5\/logo-kd.svg",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "[+085-2737303]",
+            "email": "klantenservice@kabeldirect.nl"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "De Koumen 86",
+            "addressLocality": "Hoensbroek",
+            "addressRegion": "LI",
+            "postalCode": "6433KE",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "name": "Kick Collection",
+        "url": "https:\/\/www.kickcollection.nl\/",
+        "logo": "https:\/\/www.kickcollection.nl\/media\/logo\/",
+        "socials": [
+            ""
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "email": "order@kickcollection.nl",
+                "telephone": "0180 - 660999",
+                "contactType": "Kick Collection"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Twijnstraweg 2",
+            "addressLocality": "Lekkerkerk",
+            "addressRegion": "Zuid Holland",
+            "addressCountry": "NL",
+            "postalCode": "2941 BW"
+        }
+    },
+
+    {
+        "name": "Kiwi.com",
+        "url": "https:\/\/www.kiwi.com\/en\/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.kiwi.com\/images\/schema\/kiwicom-logo-normal.svg"
+        },
+        "socials": [
+            "https:\/\/www.wikipedia.org\/wiki\/Kiwi.com",
+            "https:\/\/www.linkedin.com\/company\/kiwi.com",
+            "https:\/\/www.facebook.com\/kiwicom247",
+            "https:\/\/www.instagram.com\/kiwicom247",
+            "https:\/\/www.youtube.com\/@Kiwicom",
+            "https:\/\/www.tiktok.com\/@kiwi.com",
+            "https:\/\/twitter.com\/kiwicom247",
+            "https:\/\/www.wikidata.org\/wiki\/Q14890229"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Lazaretn\u00ed 925\/9",
+            "addressLocality": "Brno",
+            "addressCountry": "CZ",
+            "postalCode": "61500"
+        }
+    },
+    {
+        "name": "Koffershop",
+        "url": "https:\/\/www.koffershop.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/99276\/themes\/183157\/assets\/logo.png?20240215135907",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "06 38929322"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Hoorn 418b",
+            "addressLocality": "Alphen aan den Rijn",
+            "addressRegion": "",
+            "postalCode": "2404 HL",
+            "addressCountry": "Nederland"
+        }
+    },
+    {
+        "name": "Koffershop",
+        "url": "https:\/\/www.koffershop.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/99276\/themes\/183157\/assets\/logo.png?20240215135907",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "06 38929322"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Hoorn 418b",
+            "addressLocality": "Alphen aan den Rijn",
+            "addressRegion": "",
+            "postalCode": "2404 HL",
+            "addressCountry": "Nederland"
+        }
+    },
+    {
+        "name": "Koffievoordeel",
+        "url": "https:\/\/www.koffievoordeel.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/koffievoordeel.nl",
+            "https:\/\/www.facebook.com\/Koffievoordeel\/",
+            "https:\/\/www.instagram.com\/koffievoordeel.nl\/",
+            "https:\/\/www.youtube.com\/channel\/UCiNn08t9Srw13gHlqavQhuA"
+        ]
+    },
+    {
+        "name": "Koffievoordeel",
+        "url": "https:\/\/www.koffievoordeel.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/koffievoordeel.nl",
+            "https:\/\/www.facebook.com\/Koffievoordeel\/",
+            "https:\/\/www.instagram.com\/koffievoordeel.nl\/",
+            "https:\/\/www.youtube.com\/channel\/UCiNn08t9Srw13gHlqavQhuA"
+        ]
+    },
+    {
+        "name": "Koffievoordeel",
+        "url": "https:\/\/www.koffievoordeel.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/koffievoordeel.nl",
+            "https:\/\/www.facebook.com\/Koffievoordeel\/",
+            "https:\/\/www.instagram.com\/koffievoordeel.nl\/",
+            "https:\/\/www.youtube.com\/channel\/UCiNn08t9Srw13gHlqavQhuA"
+        ]
+    },
+
+    {
+        "name": "Lampenlicht.nl",
+        "url": "https:\/\/www.lampenlicht.nl\/",
+        "logo": "https:\/\/www.lampenlicht.nl\/static\/version1707896754\/frontend\/Magento\/base\/default\/Valantic_WebsiteLogo\/media\/b2c_logo\/nl.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/lampenlicht.nl\/",
+            "https:\/\/nl.pinterest.com\/lampenlichtNL\/",
+            "https:\/\/twitter.com\/lampenlicht_nl",
+            "https:\/\/www.instagram.com\/lampenlicht.nl\/"
+        ]
+    },
+
+    {
+        "name": "OTTO",
+        "url": "https:\/\/www.otto.nl",
+        "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ad\/Otto_GmbH_logo.svg\/651px-Otto_GmbH_logo.svg.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/ottonetherlands\/",
+            "https:\/\/www.instagram.com\/otto_nl\/",
+            "https:\/\/nl.pinterest.com\/otto_nl\/",
+            "https:\/\/www.linkedin.com\/company\/ottobv\/about\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3188-465 1555",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "LedstripKoning",
+        "url": "https:\/\/www.ledstripkoning.nl",
+        "logo": "https:\/\/cdn.ledstripkoning.nl\/images\/46dc652a8539cddb52b60d6cbcc52661-logo_ledkoning.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/LedKoning",
+            "https:\/\/nl.pinterest.com\/ledkoning\/",
+            "https:\/\/www.instagram.com\/ledkoning\/",
+            "https:\/\/www.youtube.com\/user\/LedstripKoning",
+            "https:\/\/www.ledstripkoning.nl"
+        ]
+    },
+    {
+        "name": "LedstripKoning",
+        "url": "https:\/\/ledstripkoning.nl\/subject",
+        "logo": "https:\/\/cdn.ledstripkoning.nl\/images\/46dc652a8539cddb52b60d6cbcc52661-logo_ledkoning.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/LedKoning",
+            "https:\/\/nl.pinterest.com\/ledkoning\/",
+            "https:\/\/www.instagram.com\/ledkoning\/",
+            "https:\/\/www.youtube.com\/user\/LedstripKoning",
+            "https:\/\/www.ledstripkoning.nl"
+        ]
+    },
+
+    {
+        "name": "The LEGO\u00ae Group",
+        "url": "https:\/\/www.LEGO.com",
+        "logo": "https:\/\/www.lego.com\/static\/favicon\/lego-logo-512.png",
+        "socials": [
+            "https:\/\/www.wikidata.org\/entity\/Q1063455",
+            "https:\/\/www.youtube.com\/user\/LEGO",
+            "https:\/\/www.linkedin.com\/company\/lego-group",
+            "https:\/\/www.facebook.com\/LEGO",
+            "https:\/\/www.twitter.com\/LEGO_Group",
+            "https:\/\/www.pinterest.com\/LEGO",
+            "https:\/\/www.instagram.com\/LEGO"
+        ]
+    },
+    {
+        "name": "LeJean",
+        "url": "https:\/\/www.lejean.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/228917\/themes\/177561\/v\/815892\/assets\/logo.png?20210811131902",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "+31 70 201 70 34"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Veenpoldersweg 22",
+            "addressLocality": "Leidschendam",
+            "addressRegion": "",
+            "postalCode": "2266 GA",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Nederland",
+        "url": "https:\/\/www.lensplaza.com\/nl_nl\/",
+        "logo": "https:\/\/d1b611jmazscft.cloudfront.net\/static\/version1707246753\/frontend\/Creativestyle\/theme-lensplaza\/nl_NL\/images\/logo.svg"
+    },
+    {
+        "name": "Lentiamo.nl",
+        "url": "https:\/\/www.lentiamo.nl\/",
+        "logo": "https:\/\/www.lentiamo.nl\/dist\/front\/img\/logos\/lentiamo.cachehash9f522585.svg",
+        "socials": [
+            "https:\/\/cs.wikipedia.org\/wiki\/Lentiamo.cz",
+            "https:\/\/cz.linkedin.com\/company\/lentiamo-s-r-o",
+            "https:\/\/www.facebook.com\/lentiamo.nl\/",
+            "https:\/\/www.instagram.com\/lentiamo\/",
+            "https:\/\/www.youtube.com\/channel\/UC8UiEkZAzAhlPa70RcQshbA\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31203694829",
+            "contactType": "customer service",
+            "areaServed": "NL",
+            "availableLanguage": "Dutch"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": {
+                "@type": "Country",
+                "name": "NL"
+            }
+        }
+    },
+    {
+        "name": "Levi Strauss & Co.",
+        "url": "https:\/\/www.levi.com\/NL\/nl_NL",
+        "logo": "\/ngsa\/img\/corpLogos\/LevisLogo.png",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "00800 53847 501",
+                "contactType": "customer service",
+                "contactOption": "TollFree",
+                "areaServed": [
+                    "NL"
+                ]
+            }
+        ]
+    },
+
+    {
+        "name": "LightInTheBox",
+        "url": "https:\/\/www.lightinthebox.com\/",
+        "logo": "https:\/\/litb-cgis.rightinthebox.com\/imagegy\/202101\/109b33eeffd0432ab501a39666893874logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/lightinthebox\/",
+            "https:\/\/www.instagram.com\/LightInTheBox\/",
+            "https:\/\/www.tiktok.com\/@lightintheboxofficial",
+            "https:\/\/pinterest.com\/LightInTheBox\/",
+            " https:\/\/www.youtube.com\/lightinthebox"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "51 Tai Seng Avenue, #05-02B\/C, Pixel Red, Singapore",
+            "postalCode": "533941",
+            "addressCountry": "Singapore"
+        }
+    },
+    {
+        "name": "LightInTheBox",
+        "url": "https:\/\/www.lightinthebox.com\/",
+        "logo": "https:\/\/litb-cgis.rightinthebox.com\/imagegy\/202101\/109b33eeffd0432ab501a39666893874logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/lightinthebox\/",
+            "https:\/\/www.instagram.com\/LightInTheBox\/",
+            "https:\/\/www.tiktok.com\/@lightintheboxofficial",
+            "https:\/\/pinterest.com\/LightInTheBox\/",
+            " https:\/\/www.youtube.com\/lightinthebox"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "51 Tai Seng Avenue, #05-02B\/C, Pixel Red, Singapore",
+            "postalCode": "533941",
+            "addressCountry": "Singapore"
+        }
+    },
+
+    {
+        "name": "Loodsxl.nl",
+        "url": "www.loodsxl.nl",
+        "logo": "https:\/\/loodsxl.nl\/wp-content\/uploads\/2023\/06\/LoodsXL-main.png",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31502301066",
+            "contactType": "sales"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Rouaanstraat 5",
+            "addressLocality": "Groningen",
+            "postalCode": "9723 CA"
+        }
+    },
+    {
+        "name": "Lookfantastic Netherlands",
+        "url": "https:\/\/www.lookfantastic.nl\/",
+        "socials": [
+            "https:\/\/business.facebook.com\/lookfantasticNL\/",
+            "https:\/\/www.instagram.com\/lookfantasticnl\/",
+            "",
+            "",
+            "https:\/\/pinterest.com\/lookfantastic\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0844 xxxxxxxx",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "Loop Earplugs",
+        "url": "https:\/\/www.loopearplugs.com",
+        "logo": "https:\/\/www.loopearplugs.com\/cdn\/shop\/files\/black_logo.png?v=1698223597&width=506",
+        "socials": [
+            "",
+            "https:\/\/www.facebook.com\/loopearplugs",
+            "https:\/\/www.pinterest.com\/loopearplugs\/",
+            "https:\/\/www.instagram.com\/loopearplugs\/",
+            "https:\/\/www.tiktok.com\/@loopearplugs",
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "url": "https:\/\/www.lovers.nl\/en\/",
+        "logo": "https:\/\/www.lovers.nl\/media\/5699\/logo1.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/loverscanalcruises\/",
+            "https:\/\/www.instagram.com\/loverscanalcruises\/?hl=nl"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 (0)20-530 1090",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+    {
+        "name": "Home",
+        "url": "https:\/\/www.lowikmeubelen.nl"
+    },
+    {
+        "name": "Luxplus",
+        "url": "https:\/\/www.luxplus.nl",
+        "logo": "https:\/\/luxplus.photos\/img\/luxplus_top_logo-2x.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/luxplus.nl",
+            "https:\/\/www.instagram.com\/luxplus\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+45 78 75 40 55",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+    {
+        "name": "Managementboek.nl",
+        "url": "https:\/\/www.managementboek.nl",
+        "logo": "https:\/\/i.mgtbk.nl\/overig\/Logo_Managementboek_pos.jpg",
+        "socials": [
+            "https:\/\/www.twitter.com\/mgtboeknl",
+            "https:\/\/www.linkedin.com\/company\/managementboek-nl",
+            "https:\/\/www.youtube.com\/user\/Managementboeknl"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-10-4731397",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+    {
+        "name": "Manutan B.V.",
+        "url": "https:\/\/www.manutan.nl",
+        "logo": "https:\/\/www.manutan.nl\/wcsstore\/ManutanSAS\/StaticContent\/group\/images\/logo\/manutan-desktop.png",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Elandlaan 2",
+            "postalCode": "3734 CP",
+            "addressLocality": "Den Dolder",
+            "telephone": "030 229 62 11",
+            "faxNumber": "030 229 41 73",
+            "addressRegion": "Den Dolder"
+        }
+    },
+    {
+        "url": "https:\/\/www.marc-o-polo.com",
+        "logo": "https:\/\/b2c-assets.marc-o-polo.com\/_nuxt\/logo_mop.1zQeliqW.svg"
+    },
+
+    {
+        "name": "Marley Spoon",
+        "url": "https:\/\/marleyspoon.nl\/",
+        "logo": "https:\/\/marleyspoon.nl\/images\/ms\/svg\/logo-marley-spoon-249ee651dd.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/marleyspoon.nl",
+            "https:\/\/www.instagram.com\/marleyspoonnl\/",
+            "https:\/\/twitter.com\/marleyspoonnl",
+            "https:\/\/nl.pinterest.com\/marleyspoonnl\/",
+            "https:\/\/www.youtube.com\/channel\/UCS1hWluWY8ktL8Qj9jIL1rg",
+            "https:\/\/nl.linkedin.com\/company\/marley-spoon\/",
+            "https:\/\/en.wikipedia.org\/wiki\/Meal_kit"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "030-8080452",
+            "areaServed": "Netherlands"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Van Marwijk Kooystraat 3",
+            "addressLocality": "Amsterdam",
+            "postalCode": "1114 AG",
+            "addressCountry": "Netherlands"
+        }
+    },
+    {
+        "name": "Marlies Dekkers",
+        "url": "www.marliesdekkers.com",
+        "logo": "https:\/\/www.marliesdekkers.com\/on\/demandware.static\/Sites-EUR-Site\/-\/en_NL\/v1602760150101\/img\/logo-main.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/marliesdekkersofficial",
+            "https:\/\/twitter.com\/marliesdekkers",
+            "https:\/\/www.instagram.com\/marliesdekkersofficial",
+            "https:\/\/www.pinterest.com\/marliesdekkers",
+            "https:\/\/www.ssense.com\/en-nl?utm_source=polyvore.com&utm_medium=redirect",
+            "https:\/\/www.youtube.com\/user\/marliesdekkers"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "[+ 31 10 79 97 999]",
+            "email": "{Email}",
+            "areaServed": [
+                "AU",
+                "BE",
+                "CA",
+                "DK",
+                "DE",
+                "FI",
+                "FR",
+                "IE",
+                "IT",
+                "LU",
+                "MC",
+                "NL",
+                "NO",
+                "AT",
+                "PL",
+                "PT",
+                "RU",
+                "ES",
+                "CZ",
+                "GB",
+                "US",
+                "SE",
+                "CH",
+                "CY",
+                "EE",
+                "GE",
+                "GR",
+                "HR",
+                "IS",
+                "LT",
+                "LV",
+                "MK",
+                "MT",
+                "RO",
+                "SK",
+                "SM",
+                "TR",
+                "BG",
+                "HU"
+            ],
+            "availableLanguage": [
+                "en",
+                "nl",
+                "de",
+                "fr"
+            ]
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Voorhaven 17",
+            "addressLocality": "Rotterdam",
+            "addressRegion": "{Region}",
+            "postalCode": "3025 HC",
+            "addressCountry": "Netherlands"
+        }
+    },
+    {
+        "name": "Marlies Dekkers",
+        "url": "https:\/\/www.marliesdekkers.com\/en-nl\/home",
+        "logo": "https:\/\/www.marliesdekkers.com\/on\/demandware.static\/Sites-EUR-Site\/-\/default\/dwccc2ba0d\/img\/logo-main.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/marliesdekkersofficial",
+            "https:\/\/twitter.com\/marliesdekkers",
+            "https:\/\/www.instagram.com\/marliesdekkersofficial",
+            "https:\/\/www.pinterest.com\/marliesdekkers",
+            "https:\/\/www.ssense.com\/en-nl?utm_source=polyvore.com&utm_medium=redirect",
+            "https:\/\/www.youtube.com\/user\/marliesdekkers"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "[+ 31 10 79 97 999]",
+            "email": "{Email}",
+            "areaServed": [
+                "AU",
+                "BE",
+                "CA",
+                "DK",
+                "DE",
+                "FI",
+                "FR",
+                "IE",
+                "IT",
+                "LU",
+                "MC",
+                "NL",
+                "NO",
+                "AT",
+                "PL",
+                "PT",
+                "RU",
+                "ES",
+                "CZ",
+                "GB",
+                "US",
+                "SE",
+                "CH",
+                "CY",
+                "EE",
+                "GE",
+                "GR",
+                "HR",
+                "IS",
+                "LT",
+                "LV",
+                "MK",
+                "MT",
+                "RO",
+                "SK",
+                "SM",
+                "TR",
+                "BG",
+                "HU"
+            ],
+            "availableLanguage": [
+                "en",
+                "nl",
+                "de",
+                "fr"
+            ]
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Voorhaven 17",
+            "addressLocality": "Rotterdam",
+            "addressRegion": "{Region}",
+            "postalCode": "3025 HC",
+            "addressCountry": "Netherlands"
+        }
+    },
+
+    {
+        "name": "Matchu Sports",
+        "url": "https:\/\/www.matchusports.nl",
+        "logo": "https:\/\/www.matchusports.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/",
+            "https:\/\/twitter.com\/",
+            "https:\/\/www.youtube.com\/user\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 53 478 1900",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Matson Naaimachines",
+        "url": "https:\/\/www.matson.nl\/",
+        "logo": "https:\/\/www.matson.nl\/skin\/frontend\/default\/ma_sagitta2\/images\/matson_logo.png",
+        "socials": [
+            "https:\/\/nl-nl.facebook.com\/matsonnaaimachines\/",
+            "https:\/\/www.youtube.com\/channel\/UCewuj4iSGfO8YgLhaRYpMKg"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-10 411 2224",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-10 411 2224",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "Meent 23A",
+            "addressLocality": "Rotterdam"
+        }
+    },
+
+    {
+        "name": "MilaTonie",
+        "url": "https:\/\/www.milatonie.com\/nl\/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.milatonie.com\/img\/milatonie-logo-1574099663.jpg"
+        }
+    },
+    {
+        "name": "MHS Ruitersport",
+        "url": "https:\/\/www.minihorseshop.nl\/",
+        "logo": "https:\/\/www.minihorseshop.nl\/static\/version1690965758\/frontend\/Minihorseshop\/default\/nl_NL\/images\/logo.svg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Borne",
+            "addressRegion": null,
+            "addressCountry": "NL",
+            "postalCode": "7622AZ",
+            "streetAddress": "Gildestraat 31"
+        }
+    },
+    {
+        "name": "Muchachomalo",
+        "url": "https:\/\/www.muchachomalo.com",
+        "logo": "https:\/\/www.muchachomalo.com\/on\/demandware.static\/Sites-muchachomalo-Site\/-\/default\/dw978556ac\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/officialmuchachomalo\/",
+            "https:\/\/twitter.com\/muchachomalo\/",
+            "https:\/\/www.instagram.com\/muchachomalo_official\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31 251 220 051",
+            "email": "info@muchachomalo.com",
+            "contactType": "customer service"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Amsterdam, The Netherlands",
+            "postalCode": "1012 RK",
+            "streetAddress": "Nieuwezijds Voorburgwal 149"
+        }
+    },
+    {
+        "name": "myposter",
+        "url": "https:\/\/www.myposter.nl\/",
+        "logo": "https:\/\/www.myposter.de\/production\/img\/logo.png",
+        "socials": [
+            "http:\/\/www.facebook.com\/myposter.nl",
+            "http:\/\/www.instagram.com\/myposternl\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "areaServed": "NL",
+            "availableLanguage": "Dutch, English",
+            "telephone": "+31 20 49 90 713",
+            "hoursAvailable": "ma - vr 8.00 - 16.00 uur",
+            "description": "Wij staan je ook graag persoonlijk te woord.",
+            "email": "service@myposter.nl"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Breitenau 7",
+            "addressLocality": "Bergkirchen",
+            "postalCode": "85232",
+            "addressCountry": "DE"
+        }
+    },
+    {
+        "name": "Myprotein",
+        "url": "https:\/\/www.myprotein.com\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/Myprotein",
+            "https:\/\/www.instagram.com\/myprotein\/",
+            "https:\/\/www.youtube.com\/user\/MyproteinUK",
+            "https:\/\/twitter.com\/Myprotein",
+            ""
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+ 44 161 8131487",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "NA-KD",
+        "url": "https:\/\/www.na-kd.com\/",
+        "logo": "https:\/\/www.na-kd.com\/siteassets\/logos\/na-kd.svg?ref=9011000562",
+        "socials": [
+            "https:\/\/www.facebook.com\/nakdfashion\/",
+            "https:\/\/twitter.com\/nakdfashion",
+            "https:\/\/instagram.com\/nakdfashion",
+            "https:\/\/www.youtube.com\/channel\/UCRR2QSC4q5ANQGq4D5YxZuA",
+            "https:\/\/www.pinterest.se\/nakdfashion\/"
+        ],
+        "address": {
+            "streetAddress": "Gamlestadsv\u00e4gen 2-4",
+            "addressLocality": "Gothenburg",
+            "postalCode": "415 02",
+            "addressCountry": "Sweden",
+            "@context": null,
+            "@type": "PostalAddress"
+        }
+    },
+    {
+        "name": "NA-KD",
+        "url": "https:\/\/www.na-kd.com\/",
+        "logo": "https:\/\/www.na-kd.com\/siteassets\/logos\/na-kd.svg?ref=9011000562",
+        "socials": [
+            "https:\/\/www.facebook.com\/nakdfashion\/",
+            "https:\/\/twitter.com\/nakdfashion",
+            "https:\/\/instagram.com\/nakdfashion",
+            "https:\/\/www.youtube.com\/channel\/UCRR2QSC4q5ANQGq4D5YxZuA",
+            "https:\/\/www.pinterest.se\/nakdfashion\/"
+        ],
+        "address": {
+            "streetAddress": "Gamlestadsv\u00e4gen 2-4",
+            "addressLocality": "Gothenburg",
+            "postalCode": "415 02",
+            "addressCountry": "Sweden",
+            "@context": null,
+            "@type": "PostalAddress"
+        }
+    },
+    {
+        "name": "Naron",
+        "url": "https:\/\/www.naron.nl\/",
+        "logo": "https:\/\/www.naron.nl\/_naron\/img\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/naron.nl\/",
+            "https:\/\/www.instagram.com\/naronnl\/",
+            "https:\/\/www.youtube.com\/@naronnl",
+            "https:\/\/www.pinterest.com\/naronnl\/",
+            "https:\/\/www.tiktok.com\/@naron.nl"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Veemarktstraat 47",
+            "addressRegion": "Noord-Brabant",
+            "addressLocality": "Breda",
+            "postalCode": "4811 ZD",
+            "addressCountry": "NL"
+        }
+    },
+    {
+        "url": "https:\/\/www.nationalgeographic.nl\/"
+    },
+    {
+        "name": "Naturaplaza",
+        "url": "https:\/\/www.naturaplaza.nl\/",
+        "logo": "https:\/\/www.naturaplaza.nl\/img\/Vhw2mw3SJLeaYrmj-u9EGpMLWpdy8ATC9Tzlo-Y-v1E\/resize:fit:0:0\/aHR0cHM6Ly93d3cubmF0dXJhcGxhemEubmwvc3RhdGljL3ZlcnNpb24yMDI0MDIxNDEwNTEyNC9mcm9udGVuZC9WZW5kaWMvdmVoZ3Jvc2hvcC1lbGVtZW50cy1oeXZhL25sX05ML2ltYWdlcy9sb2dvLnN2Zw.svg"
+    },
+    {
+        "name": " Natuurlijk Presteren ",
+        "url": " https:\/\/natuurlijkpresteren.nl ",
+        "logo": "https:\/\/media-01.imu.nl\/storage\/natuurlijkpresteren.nl\/3280\/natuurlijke-voedingssupplementen.png",
+        "socials": [
+            "https:\/\/facebook.com\/NatuurlijkPresteren\/",
+            "https:\/\/www.instagram.com\/natuurlijkpresteren.nl\/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": " Ramgatseweg 11H ",
+            "addressLocality": " Raamsdonksveer ",
+            "postalCode": " 4941VN ",
+            "addressCountry": "NL"
+        }
+    },
+
+    {
+        "name": "NHA",
+        "url": "https:\/\/www.nha.nl\/",
+        "logo": "\/static\/images\/NHAlogo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/NHA.opleidingen",
+            "https:\/\/twitter.com\/nhaopleidingen ",
+            "https:\/\/www.youtube.com\/user\/NHA042010",
+            "https:\/\/www.linkedin.com\/company\/nha-distance-learning-panningen-holland",
+            "https:\/\/www.instagram.com\/nha_opleidingen\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+310773067000",
+                "contactType": "customer support"
+            }
+        ]
+    },
+
+    {
+        "name": "Noppies",
+        "url": "https:\/\/www.noppies.com\/en-en\/",
+        "socials": [
+            "https:\/\/nl-nl.facebook.com\/NoppiesOfficial\/",
+            "https:\/\/www.instagram.com\/noppiesofficial\/"
+        ]
+    },
+
+    {
+        "url": "https:\/\/www.nostalux.nl\/",
+        "logo": "https:\/\/www.nostalux.nl\/image\/cache\/catalog\/logo\/Nostalux-Logo-Payoff-RGB-480px-2019-480x144.png"
+    },
+
+
+    {
+        "name": "Oakley, Inc.",
+        "url": "https:\/\/www.oakley.com\/",
+        "logo": "https:\/\/www.oakley.com\/_ui\/dev\/images\/OO_Logo.jpg",
+        "socials": [
+            "https:\/\/www.facebook.com\/oakleyeurope\/",
+            "https:\/\/www.instagram.com\/oakley\/",
+            "https:\/\/www.youtube.com\/oakley",
+            "https:\/\/twitter.com\/oakley",
+            "https:\/\/www.pinterest.it\/oakleyeurope\/",
+            "https:\/\/it.wikipedia.org\/wiki\/Oakley_(azienda)"
+        ]
+    },
+
+    {
+        "name": "Online.nl",
+        "url": "https:\/\/www.online.nl\/",
+        "logo": "https:\/\/www.online.nl\/content\/online\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/onlinepuntnl\/",
+            "https:\/\/twitter.com\/onlinepuntnl"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31 (0)88 00 38 500",
+            "contactType": "customer service",
+            "contactOption": "Lokaal tarief",
+            "areaServed": "NL"
+        },
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressLocality": "Luxemburg",
+                "addressCountry": "Luxemburg",
+                "postalCode": "L-1246",
+                "streetAddress": "2, Rue Albert Borschette"
+            },
+            {
+                "@type": "PostalAddress",
+                "postOfficeBoxNumber": "Postbus 444",
+                "postalCode": "1200 JJ",
+                "addressLocality": "Hilversum",
+                "addressCountry": "Nederland"
+            }
+        ]
+    },
+    {
+        "name": "Skate Shop Rollerwave",
+        "url": "https:\/\/www.onlineskateshop.nl",
+        "logo": "https:\/\/www.onlineskateshop.nl\/img\/logo.svg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Scheveningen",
+            "postalCode": "2584 HL",
+            "streetAddress": "Badhuisstraat 118"
+        }
+    },
+
+    {
+        "url": "https:\/\/www.osloskinlab.nl\/",
+        "logo": "https:\/\/www.osloskinlab.nl\/4ae573\/globalassets\/osloskinlab\/common-images\/all\/osl_logo_black.svg"
+    },
+    {
+        "name": "OTTO",
+        "url": "https:\/\/www.otto.nl",
+        "logo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/a\/ad\/Otto_GmbH_logo.svg\/651px-Otto_GmbH_logo.svg.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/ottonetherlands\/",
+            "https:\/\/www.instagram.com\/otto_nl\/",
+            "https:\/\/nl.pinterest.com\/otto_nl\/",
+            "https:\/\/www.linkedin.com\/company\/ottobv\/about\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3188-465 1555",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "Overhemden Online",
+        "url": "https:\/\/www.overhemdenonline.nl",
+        "logo": "https:\/\/www.overhemdenonline.nl\/images\/schulte.svg",
+        "socials": [
+            "https:\/\/twitter.com\/Overhemdenshop",
+            "https:\/\/www.facebook.com\/OverhemdenOnline",
+            "https:\/\/www.pinterest.com\/overhemdonline\/"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "2311 CX",
+            "streetAddress": "Breestraat 152 - 154"
+        }
+    },
+    {
+        "url": "https:\/\/overloadworldwide.nl\/",
+        "logo": "https:\/\/overloadworldwide.nl\/img\/web\/logo\/logo-o-white.png",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "contact",
+            "telephone": "+31 (0)70 301 50 60",
+            "email": "info@overloadworldwide.com"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Werner von Siemensstraat 7",
+            "addressCountry": "Zoetermeer",
+            "addressLocality": "Zoetermeer",
+            "postalCode": "2712PB"
+        }
+    },
+
+
+    {
+        "url": "https:\/\/www.parfumania.nl",
+        "logo": "https:\/\/www.parfumania.nl\/images\/layout\/logo_main.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Parfumerie.Parfumania\/",
+            "https:\/\/twitter.com\/parfumkopen",
+            "https:\/\/www.youtube.com\/user\/ParfumaniaTV"
+        ]
+    },
+    {
+        "name": "Pearle Opticiens",
+        "url": "https:\/\/www.pearle.nl",
+        "logo": "https:\/\/www.pearle.nl\/img\/pnl-vert-600.png",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+318002745001",
+            "contactType": "customer service",
+            "areaServed": "NL",
+            "contactOption": "TollFree"
+        },
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "streetAddress": "Antwoordnummer 3004",
+                "postalCode": "3760 VD",
+                "addressLocality": "Soesterberg",
+                "addressCountry": "Nederland"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Peeq",
+        "url": "https:\/\/www.peeq.nl",
+        "logo": "https:\/\/www.peeq.com\/medias\/Peeq-Logo-Structured-Data.png?context=bWFzdGVyfHJvb3R8MTMwMTR8aW1hZ2UvcG5nfGhhMS9oMDUvMTQ1MjA2MzQ0MDg5OTAucG5nfDU2MDMxM2JkYTQzY2FlMzU5ZGViMjExMjhkODk2ZGE5YWQ0MGUwMDQ1NDgwNjBmYWI3NmU4NTY1MzE1NGU4ZjQ",
+        "socials": [
+            "https:\/\/www.facebook.com\/peeq.be",
+            "https:\/\/www.instagram.com\/peeq.be\/",
+            "https:\/\/www.pinterest.com\/peeq_official",
+            "https:\/\/www.youtube.com\/channel\/UCGfbyGLsQX-A_Y2jxfi-u5Q",
+            "https:\/\/goo.gl\/maps\/f15oK4SHwKx"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "telephone": "[+3215257668]",
+                "email": "info@peeq.com",
+                "availableLanguage": [
+                    "Dutch",
+                    "English"
+                ],
+                "hoursAvailable": {
+                    "@type": "OpeningHoursSpecification",
+                    "name": [
+                        "Mo-Fr 09:00-12:30",
+                        "Mo-Fr 13:30-18:00"
+                    ]
+                }
+            },
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "telephone": "[0800 022 17 78]",
+                "email": "info@peeq.nl",
+                "availableLanguage": [
+                    "Dutch"
+                ],
+                "areaServed": "NL",
+                "hoursAvailable": {
+                    "@type": "OpeningHoursSpecification",
+                    "name": [
+                        "Mo-Fr 09:00-12:30",
+                        "Mo-Fr 13:30-18:00"
+                    ]
+                }
+            },
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "telephone": "[0800 100 68 11]",
+                "email": "info@peeq.de",
+                "availableLanguage": [
+                    "German"
+                ],
+                "hoursAvailable": {
+                    "@type": "OpeningHoursSpecification",
+                    "name": [
+                        "Mo-Fr 09:00-12:30",
+                        "Mo-Fr 13:30-18:00"
+                    ]
+                }
+            },
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "telephone": "[0800 91 75 50]",
+                "email": "info@peeq.fr",
+                "availableLanguage": [
+                    "French"
+                ],
+                "hoursAvailable": {
+                    "@type": "OpeningHoursSpecification",
+                    "name": [
+                        "Mo-Fr 09:00-12:30",
+                        "Mo-Fr 13:30-18:00"
+                    ]
+                }
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Industriepark 13B",
+            "addressLocality": "Heist-op-den-Berg",
+            "postalCode": "2220",
+            "addressCountry": "Belgi\u00eb"
+        }
+    },
+
+
+
+    {
+        "name": "Philips Hue",
+        "url": "https:\/\/www.Philips-hue.com\/nl-nl",
+        "logo": "\/content\/dam\/hue-sample\/logo\/philips-hue-shield.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/huePhilips",
+            "https:\/\/twitter.com\/tweethue",
+            "https:\/\/www.pinterest.com\/Philipshue\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "url": "https:\/\/www.philips-hue.com\/nl-nl\/support\/contact-form",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+    {
+        "name": "Pierre et vacances",
+        "url": "http:\/\/www.pierreetvacances.com",
+        "logo": "https:\/\/photo.pierreetvacances.com\/picto\/logo\/logo_pv.png ",
+        "socials": [
+            "https:\/\/www.facebook.com\/pierreetvacances",
+            "https:\/\/twitter.com\/pierre_vacances",
+            "https:\/\/www.instagram.com\/pierreetvacances\/",
+            "https:\/\/www.linkedin.com\/company\/pvcpgroup",
+            "https:\/\/www.youtube.com\/user\/pierreetvacances"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer support",
+            "telephone": "+33 (0)1 58 21 58 21",
+            "email": "relation.client@groupepvcp.com"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "11 rue de Cambrai",
+            "addressLocality": "Paris",
+            "addressRegion": "Ile-de-France",
+            "postalCode": "75019",
+            "addressCountry": "France"
+        }
+    },
+    {
+        "name": "babymarkt.de GmbH",
+        "url": "https:\/\/www.pinkorblue.nl",
+        "logo": "https:\/\/www.babymarkt.de\/unternehmen\/wp-content\/uploads\/2015\/11\/Logo_PinkorBlue_RGB.jpg",
+        "socials": [
+            "https:\/\/www.facebook.com\/pinkorbluenl\/",
+            "https:\/\/www.pinterest.com\/pinkorbluenl\/",
+            "https:\/\/www.instagram.com\/pinkorblue.nl\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 020 \u2013 499 01 75",
+                "email": "info@pinkorblue.nl",
+                "contactType": "customer service"
+            }
+        ],
+        "address": [
+            {
+                "@type": "PostalAddress",
+                "addressCountry": "Duitsland",
+                "addressLocality": "Bochum",
+                "postalCode": "44803",
+                "streetAddress": "Suttner-Nobel-Allee 4"
+            }
+        ]
+    },
+    {
+        "name": "Pixum",
+        "url": "https:\/\/www.pixum.nl\/",
+        "logo": "https:\/\/assets.pixum.com\/img\/icons\/pixum.svg",
+        "socials": [
+            "https:\/\/www.youtube.com\/channel\/UCQRjzPdVFsT64PFM7ck1YTg",
+            "https:\/\/www.facebook.com\/PixumNederland\/",
+            "https:\/\/www.instagram.com\/pixum_europe\/",
+            "https:\/\/www.becommerce.be\/partners\/www-pixum-be-17898",
+            "https:\/\/www.thuiswinkel.org\/leden\/pixum\/certificaat",
+            "https:\/\/nl.trustpilot.com\/review\/www.pixum.nl",
+            "https:\/\/nl.wikipedia.org\/wiki\/Pixum"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "020 22 55 122",
+            "contactType": "customer service",
+            "areaServed": "NL",
+            "availableLanguage": "Nederlands"
+        }
+    },
+
+    {
+        "url": "http:\/\/www.pme-legend.com\/nl",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "Customer service",
+                "telephone": "+31 (0)88 05 30 555"
+            },
+            {
+                "@type": "ContactPoint",
+                "contactType": "Headquarters",
+                "telephone": "+31 (0)88 05 30 555"
+            }
+        ]
+    },
+    {
+        "url": "https:\/\/podimo.com",
+        "logo": "https:\/\/images.ctfassets.net\/e28r873tv5cq\/3IChXnWo7kM3MPgRB4IBjU\/dbb07e46cd15bc7cc4aab0104a97c89e\/2000x1250.jpg"
+    },
+    {
+        "name": "Homepage EMEA"
+    },
+    {
+        "url": "https:\/\/www.posters.nl\/",
+        "logo": "https:\/\/www.posters.nl\/media\/logo\/default\/PostersNL.png"
+    },
+    {
+        "url": "https:\/\/www.posters.nl\/",
+        "logo": "https:\/\/www.posters.nl\/media\/logo\/default\/PostersNL.png"
+    },
+
+    {
+        "name": "PrettyLittleThing",
+        "url": "https:\/\/www.prettylittlething.com",
+        "logo": "https:\/\/cdn-skin.prettylittlething.com\/frontend\/prettylittlething\/plt-theme\/images\/organization-logo.jpg?ts=1513166000",
+        "socials": [
+            "https:\/\/twitter.com\/OfficialPLT",
+            "https:\/\/www.youtube.com\/user\/prettylittlethingtv",
+            "https:\/\/www.pinterest.com\/officialplt\/",
+            "https:\/\/instagram.com\/PrettyLittleThing",
+            "https:\/\/en.wikipedia.org\/wiki\/PrettyLittleThing",
+            "https:\/\/www.wikidata.org\/wiki\/Q54817659",
+            "https:\/\/www.tiktok.com\/@prettylittlething",
+            "https:\/\/podcasts.apple.com\/is\/podcast\/plt-behind-closed-doors\/id1449286054",
+            "https:\/\/www.linkedin.com\/company\/prettylittlething-com\/",
+            "https:\/\/www.facebook.com\/OfficialPLT\/"
+        ],
+        "address": {
+            "type": "PostalAddress",
+            "addressLocality": "Manchester, England",
+            "postalCode": "M40 7FS",
+            "streetAddress": "Wellington Mill, Pollard Street East, Ancoats"
+        }
+    },
+    {
+        "name": "PrintAbout",
+        "url": "https:\/\/www.printabout.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/printabout\/",
+            "https:\/\/www.linkedin.com\/company\/printabout\/",
+            "https:\/\/nl.trustpilot.com\/review\/www.printabout.nl"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "klantenservice",
+            "telephone": "0182618630",
+            "email": "klantenservice@printabout.nl"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Moordrecht",
+            "postalCode": "2841 MJ",
+            "streetAddress": "Grote Esch 600"
+        }
+    },
+    {
+        "name": "Printmijnstad",
+        "url": "https:\/\/www.printmijnstad.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/printmijnstad",
+            "https:\/\/instagram.com\/printmijnstad",
+            "https:\/\/pinterest.com\/printmijnstad\/"
+        ]
+    },
+
+
+    {
+        "name": "Profuomo",
+        "url": "https:\/\/profuomo.com\/",
+        "logo": "https:\/\/profuomo.com\/images\/profuomo.svg",
+        "socials": [
+            "https:\/\/www.instagram.com\/profuomo\/",
+            "https:\/\/www.facebook.com\/Profuomo\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 10 264 38 88",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "2908 LC",
+            "streetAddress": "Hoofdweg 48 A"
+        }
+    },
+
+
+    {
+        "url": "https:\/\/pure-energie.nl\/",
+        "logo": "https:\/\/pure-energie.nl\/resources\/website\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/pureenergie.nl\/",
+            "https:\/\/www.instagram.com\/pureenergie\/",
+            "https:\/\/www.x.com\/pureenergienl",
+            "https:\/\/www.linkedin.com\/company\/pureenergie\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "088 10 13 000",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "puzzleYOU"
+    },
+    {
+        "url": "https:\/\/www.quest.nl\/"
+    },
+
+    {
+        "name": "Quickjewels",
+        "url": "https:\/\/www.quickjewels.nl\/",
+        "logo": " https:\/\/www.quickjewels.nl\/static\/version1708329674\/frontend\/ReachDigital\/Quickjewels\/nl_NL\/images\/logo.svg",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0527685353",
+                "contactType": "customer support",
+                "areaServed": "NL",
+                "contactOption": "TollFree",
+                "availableLanguage": "\"Dutch\""
+            }
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "NL",
+            "addressLocality": "Urk",
+            "addressRegion": "Flevoland",
+            "postalCode": "8321 EH",
+            "streetAddress": "Klifweg 5 Urk"
+        }
+    },
+    {
+        "name": "Quiksilver",
+        "url": "https:\/\/www.quiksilver.nl\/",
+        "logo": "https:\/\/www.quiksilver.nl\/on\/demandware.static\/-\/Sites-QS-NL-Library\/nl_NL\/v1708045541589\/images\/logo-qs@2x.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Quiksilver",
+            "http:\/\/instagram.com\/quiksilver",
+            "http:\/\/www.youtube.com\/user\/quiksilver",
+            "https:\/\/twitter.com\/quiksilver",
+            "https:\/\/www.pinterest.com\/quiksilver\/",
+            "https:\/\/plus.google.com\/+quiksilver",
+            "https:\/\/vimeo.com\/quiksilver",
+            "https:\/\/www.linkedin.com\/company\/quiksilver"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 85 8881 948",
+                "contactType": "customer service",
+                "contactOption": "LocalRates",
+                "areaServed": [
+                    "NL"
+                ],
+                "availableLanguage": [
+                    [
+                        "Dutch"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "name": "RAD",
+        "url": "https:\/\/www.rad.eu\/",
+        "logo": "\/img\/rad.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/RADmotorshop\/"
+        ]
+    },
+    {
+        "name": "Radiatoraanbiedingen.nl",
+        "url": "https:\/\/www.radiatoraanbiedingen.nl\/",
+        "logo": "https:\/\/www.radiatoraanbiedingen.nl\/media\/logo\/stores\/1\/logo_1.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/radiatoraanbiedingen.nl",
+            "https:\/\/www.instagram.com\/radiatoraanbiedingen.nl\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3188-0247347",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3188-0247347",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3188-0247347",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "3528 BB",
+            "addressRegion": "Utrecht",
+            "addressLocality": "Utrecht",
+            "streetAddress": "Orteliuslaan 850"
+        }
+    },
+    {
+        "url": "https:\/\/www.refurbished.nl\/"
+    },
+    {
+        "name": "Reiss",
+        "url": "https:\/\/www.reiss.com",
+        "socials": [
+            "https:\/\/www.facebook.com\/Reiss",
+            "https:\/\/twitter.com\/REISS",
+            "https:\/\/www.youtube.com\/c\/reiss",
+            "https:\/\/www.pinterest.co.uk\/reissfashion\/",
+            "https:\/\/www.instagram.com\/reiss\/?hl=en",
+            "https:\/\/www.linkedin.com\/company\/reiss"
+        ]
+    },
+    {
+        "name": "ReMarkt",
+        "url": "https:\/\/www.remarkt.nl\/",
+        "logo": "https:\/\/www.remarkt.nl\/static\/version1706508369\/frontend\/Remarkt\/default\/nl_NL\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/ReMarkt.nl\/",
+            "https:\/\/www.instagram.com\/remarkt.nl\/",
+            "https:\/\/twitter.com\/markt_re",
+            "https:\/\/www.youtube.com\/channel\/UCiIaFuSluTw6IrSAFAWoG-w\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "0495-712876",
+            "contactType": "Customer Service"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Ellerweg 2",
+            "addressLocality": "NL",
+            "addressRegion": null,
+            "postalCode": "6037 RS"
+        }
+    },
+    {
+        "name": "Reolink Technology Co., Ltd.",
+        "url": "http:\/\/reolink.com",
+        "logo": "https:\/\/home-cdn.reolink.us\/wp-content\/uploads\/2017\/02\/reolink-logo.png?sv=1706597307&v=1706599443647",
+        "socials": [
+            "https:\/\/www.facebook.com\/ReolinkTech\/",
+            "https:\/\/twitter.com\/ReolinkTech",
+            "https:\/\/www.instagram.com\/reolinkcams\/",
+            "https:\/\/www.youtube.com\/channel\/UCEHKZX6fFVtWd4tnnRkzrMA"
+        ]
+    },
+    {
+        "name": "Repeat Fashion BV",
+        "url": "https:\/\/www.repeatcashmere.com\/en",
+        "logo": "https:\/\/www.repeatcashmere.com\/on\/demandware.static\/Sites-repeat_cashmere-NL-Site\/-\/default\/dw75826c68\/images\/RepeatLogo-black.svg",
+        "socials": [
+            "http:\/\/www.pinterest.com\/repeatcashmere",
+            "http:\/\/www.instagram.com\/repeatcashmere",
+            "https:\/\/twitter.com\/Repeat_Cashmere",
+            "https:\/\/www.youtube.com\/@REPEAT_cashmere",
+            "https:\/\/www.facebook.com\/repeatcashmere"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "postalCode": "2153 LL",
+            "streetAddress": "Noorderdreef 68",
+            "addressCountry": "The Netherlands",
+            "addressRegion": "Nieuw-Vennep",
+            "addressLocality": ""
+        }
+    },
+
+
+    {
+        "name": "Roxy",
+        "url": "https:\/\/www.roxy-netherlands.nl\/",
+        "logo": "https:\/\/www.roxy-netherlands.nl\/on\/demandware.static\/-\/Sites-RX-NL-Library\/nl_NL\/v1708045541600\/images\/logo-rx@2x.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Roxy",
+            "https:\/\/twitter.com\/roxy",
+            "http:\/\/instagram.com\/roxy",
+            "http:\/\/www.youtube.com\/user\/roxy",
+            "https:\/\/www.pinterest.com\/roxy\/",
+            "https:\/\/plus.google.com\/+roxy",
+            "https:\/\/www.linkedin.com\/company\/quiksilver"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31 85 8887 397",
+                "contactType": "customer service",
+                "contactOption": "LocalRates",
+                "areaServed": [
+                    "NL"
+                ],
+                "availableLanguage": [
+                    [
+                        "Dutch"
+                    ]
+                ]
+            }
+        ]
+    },
+    {
+        "url": "https:\/\/www.runnersworld.com\/"
+    },
+    {
+        "address": "Aboutbags NV, Westerring 17, 9700 Oudenaarde, Belgium"
+    },
+    {
+        "name": "Samsung Nederland ",
+        "url": "https:\/\/www.samsung.com\/nl\/",
+        "logo": "https:\/\/www.samsung.com\/nl\/etc.clientlibs\/samsung\/clientlibs\/consumer\/global\/clientlib-common\/resources\/images\/global-samsung-logo.svg"
+    },
+    {
+        "name": "Saveatrain",
+        "url": "https:\/\/www.saveatrain.com",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/saveatrain-12e85.kxcdn.com\/blog\/wp-content\/uploads\/2018\/04\/Save-A-Train-logo.jpg",
+            "width": "500",
+            "height": "233"
+        },
+        "socials": [
+            "https:\/\/www.facebook.com\/saveatrain",
+            "https:\/\/www.instagram.com\/SaveATrain",
+            "https:\/\/twitter.com\/saveatrain",
+            "https:\/\/www.linkedin.com\/company\/save-a-train",
+            "https:\/\/www.pinterest.fr\/saveatrain",
+            "https:\/\/www.youtube.com\/channel\/UCs4v9v-lTp68F1FZ-5ZTE1Q"
+        ]
+    },
+    {
+        "name": "SCHIESSER",
+        "url": "https:\/\/www.schiesser.com\/",
+        "logo": "https:\/\/www.schiesser.com\/out\/schiesser\/src\/assets\/images\/svg\/logo.svg"
+    },
+
+    {
+        "name": "Sexy-Store B.V.",
+        "url": "https:\/\/sexy-store.nl",
+        "logo": "https:\/\/static.cosmodacollection.com\/img\/sexy-store_nl.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/SexyStorenl",
+            "https:\/\/www.kiyoh.com\/reviews\/1047651\/sexy-store_b_v_?lang=nl&filterRating=10&filterLocale=&filterDateScoreOrder=DATE_DESC"
+        ]
+    },
+
+    {
+        "name": "Shoesupply",
+        "url": "https:\/\/www.shoesupply.eu\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/65401\/themes\/119816\/assets\/logo.png?20200409191111"
+    },
+    {
+        "name": "Shopdepot",
+        "url": "https:\/\/www.shopdepot.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/123090\/themes\/180564\/assets\/logo.png?20231208113859",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "085-3034622"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Shopdepot",
+        "url": "https:\/\/www.shopdepot.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/123090\/themes\/180564\/assets\/logo.png?20231208113859",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "085-3034622"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "shopDisney EU",
+        "url": "https:\/\/www.shopdisney.eu\/",
+        "logo": "https:\/\/www.disneystore.eu\/on\/demandware.static\/Sites-shopDisneyEU-Site\/-\/default\/dw233eea60\/images\/shop_logo_500.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/shopDisneyEU\/",
+            "https:\/\/www.instagram.com\/shopDisneyEU\/"
+        ]
+    },
+    {
+        "name": "Shutterstock",
+        "url": "https:\/\/www.shutterstock.com",
+        "logo": "https:\/\/www.shutterstock.com\/assets\/images\/shutterstock-favicon-192.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Shutterstock",
+            "https:\/\/twitter.com\/shutterstock",
+            "https:\/\/www.linkedin.com\/company\/shutterstock",
+            "https:\/\/www.youtube.com\/user\/ShutterstockInc",
+            "https:\/\/instagram.com\/shutterstock\/"
+        ]
+    },
+    {
+        "name": "Shutterstock",
+        "url": "https:\/\/www.shutterstock.com",
+        "logo": "https:\/\/www.shutterstock.com\/assets\/images\/shutterstock-favicon-192.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Shutterstock",
+            "https:\/\/twitter.com\/shutterstock",
+            "https:\/\/www.linkedin.com\/company\/shutterstock",
+            "https:\/\/www.youtube.com\/user\/ShutterstockInc",
+            "https:\/\/instagram.com\/shutterstock\/"
+        ]
+    },
+    {
+        "name": "Simyo",
+        "url": "https:\/\/www.simyo.nl",
+        "socials": [
+            "https:\/\/www.facebook.com\/simyonl",
+            "https:\/\/twitter.com\/simyonl",
+            "https:\/\/plus.google.com\/+simyo_nl",
+            "https:\/\/www.youtube.com\/user\/SimyoNederland",
+            "https:\/\/www.instagram.com\/simyonl\/"
+        ]
+    },
+    {
+        "name": "SIXT",
+        "url": "https:\/\/www.sixt.nl\/",
+        "logo": "https:\/\/img.sixt.com\/200\/b92010ad-9024-497d-812b-c9843c6e4700.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/sixt.nederland",
+            "https:\/\/twitter.com\/sixtnl?lang=de",
+            "https:\/\/www.instagram.com\/sixtnl\/?hl=de"
+        ]
+    },
+    {
+        "url": "https:\/\/www.sizeofficial.nl\/",
+        "logo": "https:\/\/www.sizeofficial.nl\/\/skins\/sizev1-desktop\/public\/img\/icons\/app\/favicon-192x192.png"
+    },
+
+
+
+
+
+    {
+        "name": "Sloterop.nl"
+    },
+    {
+        "name": "Smartphonehoesjes.nl",
+        "url": "https:\/\/www.smartphonehoesjes.nl\/"
+    },
+
+
+
+
+
+    {
+        "name": "Sneakers",
+        "url": "https:\/\/www.sneakers.nl\/"
+    },
+    {
+        "name": "sneltoner.nl",
+        "url": "https:\/\/www.sneltoner.nl",
+        "logo": "https:\/\/www.sneltoner.nl\/Themes\/SnelTonerNL\/images\/sneltoner_logo_72y.png",
+        "socials": [
+            "http:\/\/twitter.com\/sneltoner",
+            "https:\/\/plus.google.com\/+sneltoner",
+            "https:\/\/www.facebook.com\/Sneltoner\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "contactPoint",
+                "telephone": "+31318210210",
+                "email": "klantenservice@sneltoner.nl<mailto:klantenservice@sneltoner.nl>",
+                "contactType": "customer support",
+                "areaServed": "NL"
+            },
+            {
+                "@type": "contactPoint",
+                "telephone": "+31318210210",
+                "email": "klantenservice@sneltoner.nl<mailto:klantenservice@sneltoner.nl>",
+                "contactType": "customer support",
+                "areaServed": "BE"
+            }
+        ]
+    },
+    {
+        "name": "Social Deal",
+        "url": "https:\/\/www.socialdeal.nl\/",
+        "logo": "https:\/\/media.socialdeal.nl\/img\/favicon\/v4\/android-chrome-192x192.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/SocialDealINT\/",
+            "https:\/\/www.instagram.com\/social.deal",
+            "https:\/\/www.linkedin.com\/company\/social-deal"
+        ]
+    },
+
+    {
+        "name": "SolarlampKoning",
+        "url": "https:\/\/www.solarlampkoning.nl",
+        "logo": "https:\/\/cdn.solarlampkoning.nl\/images\/46dc652a8539cddb52b60d6cbcc52661-logo_ledkoning.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/LedKoning",
+            "https:\/\/nl.pinterest.com\/ledkoning\/",
+            "https:\/\/www.instagram.com\/ledkoning\/",
+            "https:\/\/www.youtube.com\/user\/LedstripKoning",
+            "https:\/\/www.solarlampkoning.nl"
+        ]
+    },
+    {
+        "name": "SolarlampKoning",
+        "url": "https:\/\/solarlampkoning.nl\/subject",
+        "logo": "https:\/\/cdn.solarlampkoning.nl\/images\/46dc652a8539cddb52b60d6cbcc52661-logo_ledkoning.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/LedKoning",
+            "https:\/\/nl.pinterest.com\/ledkoning\/",
+            "https:\/\/www.instagram.com\/ledkoning\/",
+            "https:\/\/www.youtube.com\/user\/LedstripKoning",
+            "https:\/\/www.solarlampkoning.nl"
+        ]
+    },
+    {
+        "name": "Solarplexius",
+        "url": "https:\/\/solarplexius.nl\/nl\/",
+        "logo": "https:\/\/solarplexius.com\/app\/uploads\/2021\/10\/cropped-favicon-1.png"
+    },
+    {
+        "url": "https:\/\/www.solebox.com\/de_DE",
+        "logo": "https:\/\/www.solebox.com\/on\/demandware.static\/Sites-solebox-Site\/-\/default\/dw3c1b0bb0\/images\/solebox_logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/solebox\/",
+            "https:\/\/www.instagram.com\/solebox\/",
+            "https:\/\/www.youtube.com\/channel\/UC_mxfqlDJyH4e7Q7I-zMcLQ",
+            "https:\/\/www.solebox.com\/blog\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+49 800 - 411 00 00",
+                "contactType": "Customer service"
+            }
+        ]
+    },
+    {
+        "url": "https:\/\/solis.com\/int_en\/",
+        "logo": "https:\/\/solis.com\/static\/version1706179471\/frontend\/Solis\/international\/en_US\/images\/logo.png"
+    },
+    {
+        "name": "Somfy: Je partner voor Smart Home oplossingen!"
+    },
+    {
+        "name": "Somfy",
+        "url": "https:\/\/www.somfy.nl",
+        "logo": "https:\/\/www.somfy.nl\/common\/b2c_v5\/img\/logo_somfy.png",
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "50 avenue du Nouveau Monde",
+            "addressLocality": "Cluses",
+            "postalCode": "74300",
+            "addressCountry": "FR"
+        }
+    },
+    {
+        "name": "Space NK",
+        "url": "https:\/\/www.spacenk.com\/uk\/home",
+        "logo": "https:\/\/www.spacenk.com\/on\/demandware.static\/Sites-spacenkgb-Site\/-\/default\/dw2de40e90\/images\/logo.svg",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+4420 9740 2085",
+            "contactType": "Customer Service"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "11 - 20 Capper St",
+            "addressLocality": "London",
+            "postalCode": "WC1E 6JA",
+            "addressCountry": "United Kingdom"
+        }
+    },
+
+
+    {
+        "name": "Spelspul.nl",
+        "url": "https:\/\/www.spelspul.nl\/nl\/",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https:\/\/www.spelspul.nl\/img\/spelspulnl-logo-15429127871.jpg"
+        }
+    },
+
+    {
+        "name": "Spiru",
+        "url": "https:\/\/spiru.nl"
+    },
+    {
+        "name": "Sportus",
+        "url": "https:\/\/www.sportus.nl\/",
+        "logo": "https:\/\/www.sportus.nl\/Themes\/Uptown\/Content\/images\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/Sportusnl",
+            "https:\/\/twitter.com\/SportusNL",
+            "https:\/\/www.youtube.com\/user\/Sportusnl"
+        ]
+    },
+    {
+        "url": "https:\/\/staatsloterij.nederlandseloterij.nl",
+        "logo": "https:\/\/staatsloterij.nederlandseloterij.nl\/statics\/images\/logo-social.png",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-705500808",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "url": "https:\/\/staatsloterij.nederlandseloterij.nl",
+        "logo": "https:\/\/staatsloterij.nederlandseloterij.nl\/statics\/images\/logo-social.png",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31-705500808",
+                "contactType": "customer service"
+            }
+        ],
+        "name": "Staatsloterij",
+        "socials": [
+            "https:\/\/www.facebook.com\/Staatsloterij",
+            "https:\/\/www.instagram.com\/staatsloterij",
+            "https:\/\/twitter.com\/staatsloterij",
+            "https:\/\/www.youtube.com\/user\/staatsloterij"
+        ]
+    },
+    {
+        "name": "Startselect",
+        "url": "http:\/\/startselect.com\/nl-nl"
+    },
+    {
+        "name": "Stylevana",
+        "url": "https:\/\/www.stylevana.com\/en_US\/",
+        "logo": "https:\/\/www.stylevana.com\/en_US\/skin\/frontend\/codazon_fastest\/default\/images\/SV-logo-664x130.png",
+        "socials": [
+            "https:\/\/www.instagram.com\/stylevana_sv\/",
+            "https:\/\/www.facebook.com\/stylevana.sv\/",
+            "https:\/\/www.youtube.com\/stylevana",
+            "https:\/\/twitter.com\/stylevana_sv",
+            "https:\/\/www.pinterest.com\/stylevana_sv\/_created\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "email": "support@stylevana.com",
+                "telephone": ""
+            }
+        ]
+    },
+
+
+
+    {
+        "name": "Surfshark",
+        "url": "https:\/\/surfshark.com"
+    },
+    {
+        "name": "Swarovski Organization",
+        "url": "https:\/\/www.swarovski.com\/nl-NL\/",
+        "logo": "https:\/\/www.swarovski.com\/images\/swarovski-logo.png"
+    },
+    {
+        "name": "Tadaaz",
+        "url": "https:\/\/tadaaz.nl",
+        "logo": "https:\/\/tadaaz.nl\/img\/logo-v1.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/tadaazNL",
+            "https:\/\/twitter.com\/tadaaz_nl",
+            "https:\/\/www.instagram.com\/tadaaz_nl",
+            "https:\/\/nl.pinterest.com\/tadaaznederland"
+        ]
+    },
+    {
+        "name": "Temu",
+        "url": "https:\/\/www.temu.com\/nl",
+        "logo": "https:\/\/aimg.kwcdn.com\/upload_aimg\/th\/17118177-aa57-4cb7-bd96-3dea184a6a83.png",
+        "socials": [
+            "https:\/\/www.instagram.com\/temu\/",
+            "https:\/\/www.facebook.com\/shoptemu\/",
+            "https:\/\/www.twitter.com\/@shoptemu",
+            "https:\/\/www.tiktok.com\/@temu",
+            "https:\/\/www.pinterest.com\/shoptemu\/",
+            "https:\/\/www.youtube.com\/@temu",
+            "https:\/\/en.wikipedia.org\/wiki\/Temu_(marketplace)",
+            "https:\/\/www.linkedin.com\/company\/temuapp"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "31 St James Ave Suite 355",
+            "postalCode": "02116",
+            "addressCountry": "US",
+            "addressLocality": "Boston",
+            "addressRegion": "MA"
+        }
+    },
+
+    {
+        "name": "The Brownie Box",
+        "url": "https:\/\/www.thebrowniebox.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/296453\/themes\/180225\/assets\/logo.png?20240216111508",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "026 2062135"
+        }
+    },
+
+
+
+
+
+
+
+    {
+        "name": "TOMS",
+        "url": "http:\/\/www.TOMS.com"
+    },
+    {
+        "name": "tonershop.nl",
+        "url": "https:\/\/www.tonershop.nl",
+        "logo": "https:\/\/www.tonershop.nl\/Themes\/TonershopNL\/images\/logo_tonershop_y72.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/a1interflow\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "contactPoint",
+                "telephone": "+31263193980",
+                "email": "info@tonershop.nl<mailto:info@tonershop.nl>",
+                "contactType": "customer support",
+                "areaServed": "NL"
+            },
+            {
+                "@type": "contactPoint",
+                "telephone": "+31263193981",
+                "email": "info@tonershop.be<mailto:info@tonershop.be>",
+                "contactType": "customer support",
+                "areaServed": "BE"
+            }
+        ]
+    },
+    {
+        "name": "TOP Koistore",
+        "url": "https:\/\/www.topkoistore.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/290134\/themes\/171013\/v\/2181631\/assets\/logo.png?20240123123138",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "0493 235030"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "TOP Koistore",
+        "url": "https:\/\/www.topkoistore.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/290134\/themes\/171013\/v\/2181631\/assets\/logo.png?20240123123138",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "0493 235030"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Tractive",
+        "url": "https:\/\/tractive.com\/",
+        "logo": "https:\/\/tractive.com\/static\/images\/tractive-logo.svg",
+        "socials": [
+            "https:\/\/www.facebook.com\/TractiveCompany",
+            "https:\/\/instagram.com\/tractive",
+            "https:\/\/www.tiktok.com\/@tractive.com"
+        ]
+    },
+
+    {
+        "name": "Trendyhoesjes.nl",
+        "url": "https:\/\/www.trendyhoesjes.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/326410\/themes\/182687\/assets\/logo.png?20240126135327",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "040 218 06 11"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Spaarpot 1 A",
+            "addressLocality": "Geldrop",
+            "addressRegion": "",
+            "postalCode": "5667 KV",
+            "addressCountry": "Nederland"
+        }
+    },
+
+    {
+        "name": "Tuinland",
+        "url": "https:\/\/tuinland.nl\/",
+        "logo": "https:\/\/tuinland.nl\/static\/version1698211628\/frontend\/Tuinland\/default\/nl_NL\/images\/logo.svg",
+        "socials": [
+            "https:\/\/www.instagram.com\/tuinland\/",
+            "https:\/\/nl.pinterest.com\/tuinland\/",
+            "https:\/\/www.facebook.com\/Tuinland\/",
+            "https:\/\/twitter.com\/tuinland",
+            "https:\/\/www.youtube.com\/user\/Tuinland"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "0592 - 342161",
+            "contactType": "Customer Service"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Borgstee 1",
+            "addressLocality": "NL",
+            "addressRegion": null,
+            "postalCode": "9403 TS"
+        }
+    },
+    {
+        "url": "https:\/\/www.tuinmeubels.nl",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31134550860",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+
+
+
+    {
+        "name": "Van Arendonk",
+        "url": "https:\/\/www.vanarendonk.nl",
+        "logo": "https:\/\/www.vanarendonk.nl\/assets\/logo-header.svg"
+    },
+    {
+        "name": "Van Arendonk",
+        "url": "https:\/\/www.vanarendonk.nl",
+        "logo": "https:\/\/www.vanarendonk.nl\/assets\/logo-header.svg"
+    },
+    {
+        "name": "Van Asten Babysuperstore",
+        "url": "https:\/\/www.vanastenbabysuperstore.nl\/",
+        "logo": "https:\/\/www.vanastenbabysuperstore.nl\/static\/version1624425926\/frontend\/Webfant\/vanasten\/nl_NL\/images\/logo-vanasten.svg",
+        "socials": [
+            "https:\/\/nl-nl.facebook.com\/vanastenbabysuperstore\/",
+            "https:\/\/www.instagram.com\/vanastenbabysuperstore\/",
+            "https:\/\/www.youtube.com\/channel\/UCMZI_W8k2cxSLeNfq1AwXZw"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3113 5440780",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3113 5440780",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+3113 5440780",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "5021AA",
+            "addressLocality": "Tilburg"
+        }
+    },
+    {
+        "name": "Van Gemert Ondermode",
+        "url": "https:\/\/www.vangemertondermode.nl\/",
+        "logo": "https:\/\/www.vangemertondermode.nl\/media\/logo\/default\/Logo.png",
+        "socials": [
+            "https:\/\/nl-nl.facebook.com\/vangemertondermode\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31492700238",
+                "contactType": "sales"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "5715 PD",
+            "addressRegion": "Noord-Brabant",
+            "addressLocality": "Lierop",
+            "streetAddress": "Stipdonk 46 Hal 1"
+        }
+    },
+
+    {
+        "name": "Vans",
+        "url": "https:\/\/www.vans.nl",
+        "logo": "https:\/\/images.vans.com\/is\/image\/VansBrand\/Vans-logo-112x112-organization-rich-results?$SCALE%2DORIGINAL$",
+        "socials": [
+            "https:\/\/www.instagram.com\/vans_europe\/",
+            "https:\/\/twitter.com\/vans_europe",
+            "https:\/\/www.youtube.com\/user\/VansShoes66",
+            "https:\/\/www.facebook.com\/VansEurope"
+        ]
+    },
+    {
+        "name": "Vattenfall",
+        "url": "https:\/\/www.vattenfall.nl",
+        "logo": "https:\/\/cdn.vattenfall.nl\/vattenfallnlprd\/14.2.25\/assets\/images\/logo-vattenfall.svg",
+        "socials": [
+            "https:\/\/nl.wikipedia.org\/wiki\/Vattenfall_Nederland",
+            "https:\/\/twitter.com\/vattenfall",
+            "https:\/\/www.youtube.com\/channel\/UCyP8Lq4NsUeCLW3EsDPE-eA"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "",
+            "contactType": "customer service",
+            "areaServed": "NL",
+            "availableLanguage": "Dutch"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "Postbus 40021",
+            "addressLocality": "Arnhem",
+            "postalCode": "6803 HA"
+        }
+    },
+    {
+        "name": "Verf.nu",
+        "url": "https:\/\/www.verf.nu",
+        "socials": [
+            "https:\/\/www.kiyoh.nl\/kleuro_groep_bv\/",
+            "https:\/\/www.facebook.nl\/kleurogroep",
+            "https:\/\/www.linkedin.nl\/company\/kleuro-groep",
+            "https:\/\/www.kleurogroep.nl",
+            "https:\/\/www.thuiswinkel.org\/leden\/verf.nu\/certificaat"
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Nederland",
+            "postalCode": "2404CB",
+            "streetAddress": "Bedrijfsweg 13",
+            "email": "customerservice@kleuro.nl",
+            "telephone": "+31 (0)172-423323",
+            "mainEntityOfPage": "https:\/\/www.verf.nu",
+            "name": "Verf.nu"
+        }
+    },
+    {
+        "name": "VerfBestelSite.nl",
+        "url": "https:\/\/www.verfbestelsite.nl\/",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31570 746 100",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31570 746 100",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+31570 746 100",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Nederland",
+            "postalCode": "7418HJ",
+            "addressRegion": "Overijssel",
+            "addressLocality": "Deventer",
+            "streetAddress": "Nering B\u00f6gelweg 123"
+        }
+    },
+    {
+        "url": "https:\/\/www.vevor.nl",
+        "logo": "https:\/\/adsimg.vevorstatic.com\/upload\/vevor\/fe\/common\/logo2.png"
+    },
+
+    {
+        "url": "https:\/\/www.vinify.nl\/",
+        "logo": "https:\/\/www.vinify.nl\/static\/version1705398933\/frontend\/Lfe\/b2c\/nl_NL\/images\/logo.svg"
+    },
+    {
+        "url": "https:\/\/www.vinify.nl\/",
+        "logo": "https:\/\/www.vinify.nl\/media\/logo\/stores\/4\/Logo_Vinify_200x44.png"
+    },
+    {
+        "url": "https:\/\/www.vitaepro.nl\/",
+        "logo": "https:\/\/www.vitaepro.nl\/4af3df\/globalassets\/vitaepro-assets\/common-images\/local-content-nl\/logo\/vitaepro-logo-2022---medium.jpg"
+    },
+    {
+        "name": "Vital Proteins NL",
+        "url": "https:\/\/www.vitalproteins.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/VitalProteins.UK",
+            "https:\/\/www.instagram.com\/vitalproteins.nl\/",
+            "",
+            "",
+            "https:\/\/www.pinterest.co.uk\/vitalproteins"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "0844 xxxxxxxx",
+                "contactType": "customer service"
+            }
+        ]
+    },
+
+
+    {
+        "name": "Viva Donna",
+        "url": "https:\/\/www.vivadonna.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/251781\/themes\/152981\/assets\/logo.png?20231228090648",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "06-24190976"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+
+
+
+    {
+        "name": "Voordeligscheren",
+        "url": "https:\/\/www.voordeligscheren.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/320693\/themes\/179055\/v\/709474\/assets\/logo.png?20220224141011",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "038 460 71 21"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+    {
+        "name": "Voordeligscheren",
+        "url": "https:\/\/www.voordeligscheren.nl\/",
+        "logo": "https:\/\/cdn.webshopapp.com\/shops\/320693\/themes\/179055\/v\/709474\/assets\/logo.png?20220224141011",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "Customer service",
+            "telephone": "038 460 71 21"
+        },
+        "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "",
+            "addressLocality": "",
+            "addressRegion": "",
+            "postalCode": "",
+            "addressCountry": ""
+        }
+    },
+
+    {
+        "name": "Wam Denim",
+        "url": "https:\/\/www.wamdenim.com\/",
+        "logo": "https:\/\/www.wamdenim.com\/static\/version1706689672\/frontend\/Navipartner\/wamdenim\/en_US\/images\/logo.svg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "Netherlands",
+            "streetAddress": "Gooiland 1 - 1948RC - Beverwijk"
+        }
+    },
+
+    {
+        "url": "https:\/\/www.waterfilterexpert.nl",
+        "logo": "https:\/\/www.waterfilterexpert.nl\/image\/catalog\/ocs\/logos\/Waterfilterexpert.nl_logo_wit.svg"
+    },
+    {
+        "url": "https:\/\/www.waterfilterexpert.nl\/",
+        "logo": "https:\/\/www.waterfilterexpert.nl\/image\/catalog\/ocs\/logos\/Waterfilterexpert.nl_logo_wit.svg"
+    },
+    {
+        "socials": [
+            "https:\/\/www.facebook.com\/WW.Nederland\/",
+            "https:\/\/twitter.com\/ww_nederland",
+            "https:\/\/www.youtube.com\/channel\/UCXzWw5Il9s_zRuZf2OGRFjA",
+            "https:\/\/www.instagram.com\/ww_nederland\/"
+        ]
+    },
+    {
+        "socials": [
+            "https:\/\/www.facebook.com\/WW.Nederland\/",
+            "https:\/\/twitter.com\/ww_nederland",
+            "https:\/\/www.youtube.com\/channel\/UCXzWw5Il9s_zRuZf2OGRFjA",
+            "https:\/\/www.instagram.com\/ww_nederland\/"
+        ]
+    },
+    {
+        "name": "WeightWorld",
+        "url": "https:\/\/www.weightworld.nl",
+        "logo": "https:\/\/www.weightworld.nl\/assets\/weightworld\/weightworld.nl\/images\/logo.png",
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31-",
+            "contactType": "Customer service",
+            "areaServed": [
+                "NL"
+            ],
+            "availableLanguage": [
+                "Dutch"
+            ]
+        }
+    },
+    {
+        "url": "https:\/\/www.whoppah.com",
+        "logo": "https:\/\/www.whoppah.com\/logo.png"
+    },
+    {
+        "name": "Wijnbeurs",
+        "url": "https:\/\/www.wijnbeurs.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/www.wijnbeurs.nl",
+            "https:\/\/www.instagram.com\/dewijnbeursnl\/",
+            "https:\/\/twitter.com\/dewijnbeurs",
+            "https:\/\/www.facebook.com\/De.Wijnbeurs.Nederland\/"
+        ]
+    },
+    {
+        "name": "Wijnbeurs",
+        "url": "https:\/\/www.wijnbeurs.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/www.wijnbeurs.nl",
+            "https:\/\/www.instagram.com\/dewijnbeursnl\/",
+            "https:\/\/twitter.com\/dewijnbeurs",
+            "https:\/\/www.facebook.com\/De.Wijnbeurs.Nederland\/"
+        ]
+    },
+    {
+        "name": "Wijnbeurs",
+        "url": "https:\/\/www.wijnbeurs.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/www.wijnbeurs.nl",
+            "https:\/\/www.instagram.com\/dewijnbeursnl\/",
+            "https:\/\/twitter.com\/dewijnbeurs",
+            "https:\/\/www.facebook.com\/De.Wijnbeurs.Nederland\/"
+        ]
+    },
+    {
+        "name": "Wijnvoordeel",
+        "url": "https:\/\/www.wijnvoordeel.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/www.wijnvoordeel.nl",
+            "https:\/\/www.facebook.com\/Wijnvoordeel\/",
+            "https:\/\/twitter.com\/wijnvoordeel"
+        ]
+    },
+    {
+        "name": "Wijnvoordeel",
+        "url": "https:\/\/www.wijnvoordeel.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/www.wijnvoordeel.nl",
+            "https:\/\/www.facebook.com\/Wijnvoordeel\/",
+            "https:\/\/twitter.com\/wijnvoordeel"
+        ]
+    },
+    {
+        "name": "Wijnvoordeel",
+        "url": "https:\/\/www.wijnvoordeel.nl\/",
+        "socials": [
+            "https:\/\/nl.trustpilot.com\/review\/www.wijnvoordeel.nl",
+            "https:\/\/www.facebook.com\/Wijnvoordeel\/",
+            "https:\/\/twitter.com\/wijnvoordeel"
+        ]
+    },
+    {
+        "name": "Willie.nl",
+        "url": "https:\/\/www.willie.nl"
+    },
+
+    {
+        "name": "Woolrich Europe SPA",
+        "url": "https:\/\/www.woolrich.com\/nl\/nl\/",
+        "logo": "https:\/\/www.woolrich.com\/on\/demandware.static\/Sites-WR_NL-Site\/-\/default\/dwcf017f5a\/images\/logo.svg",
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+39-800130347",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Italy",
+            "postalCode": "40129",
+            "addressRegion": "BO",
+            "streetAddress": "Via della Cooperazione 21, 40129 Bologna"
+        }
+    },
+    {
+        "name": "woonenzo.nl",
+        "url": "https:\/\/www.woonenzo.nl",
+        "logo": "https:\/\/www.woonenzo.nl\/templates\/woonenzo\/assets\/images\/logo.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/woonenzo",
+            "https:\/\/instagram.com\/woonenzo",
+            "https:\/\/www.pinterest.com\/woonenzo"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "+31-881881818",
+            "contactType": "customer service",
+            "areaServed": "NL",
+            "availableLanguage": [
+                "Dutch"
+            ]
+        }
+    },
+    {
+        "name": "YESSTYLE",
+        "url": "https:\/\/www.yesstyle.com\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/yesstyle",
+            "https:\/\/www.twitter.com\/yesstyle",
+            "https:\/\/pinterest.com\/yesstyle",
+            "https:\/\/instagram.com\/yesstyle",
+            "https:\/\/www.youtube.com\/yesstyle",
+            "https:\/\/plus.google.com\/105843915768153948564",
+            "http:\/\/yesstyle.tumblr.com\/",
+            "http:\/\/yesstyle.polyvore.com\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "url": "https:\/\/www.yesstyle.com\/nl\/help\/contact-us.html"
+        }
+    },
+    {
+        "name": "YESSTYLE",
+        "url": "https:\/\/www.yesstyle.com\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/yesstyle",
+            "https:\/\/www.twitter.com\/yesstyle",
+            "https:\/\/pinterest.com\/yesstyle",
+            "https:\/\/instagram.com\/yesstyle",
+            "https:\/\/www.youtube.com\/yesstyle",
+            "https:\/\/plus.google.com\/105843915768153948564",
+            "http:\/\/yesstyle.tumblr.com\/",
+            "http:\/\/yesstyle.polyvore.com\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "contactType": "customer service",
+            "url": "https:\/\/www.yesstyle.com\/nl\/help\/contact-us.html"
+        }
+    },
+
+
+
+    {
+        "name": "YourSurprise",
+        "url": "https:\/\/www.yoursurprise.nl\/",
+        "logo": "https:\/\/assets.yoursurprise.com\/images\/template\/logo-yoursurprise-2023.png",
+        "socials": [
+            "https:\/\/www.facebook.com\/YourSurpriseNL\/",
+            "https:\/\/www.instagram.com\/yoursurprisecom\/"
+        ],
+        "contactInformation": {
+            "@type": "ContactPoint",
+            "telephone": "0111 712 465",
+            "email": "klantenservice@yoursurprise.nl",
+            "contactType": "customer service"
+        }
+    },
+
+    {
+        "name": "Zavvi Nederland",
+        "url": "https:\/\/www.zavvi.nl\/",
+        "socials": [
+            "https:\/\/www.facebook.com\/zavvinederland\/",
+            "https:\/\/www.instagram.com\/zavvinederland\/",
+            "https:\/\/www.youtube.com\/channel\/UCZupa_CqZEIKqe56C2ImESg",
+            "https:\/\/twitter.com\/zavvinederland",
+            ""
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+44 (0)844 243 9088",
+                "contactType": "customer service"
+            }
+        ]
+    },
+    {
+        "name": "Zeeman",
+        "url": "https:\/\/www.zeeman.com\/",
+        "socials": [
+            [
+                "https:\/\/www.facebook.com\/zeemantextielsupers",
+                "https:\/\/twitter.com\/zeemantextiel",
+                "https:\/\/nl.pinterest\/com\/zeemantextiel\/",
+                "https:\/\/www.instagram.com\/zeeman_textielsupers\/"
+            ]
+        ],
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Alphen aan den Rijn",
+            "addressRegion": "",
+            "streetAddress": "De Schans 15",
+            "postalCode": "2405 XX"
+        }
+    },
+    {
+        "url": "https:\/\/www.zesso.com\/be_nl\/",
+        "logo": "https:\/\/www.zesso.com\/static\/version1706176929\/frontend\/Zesso\/zesso\/nl_NL\/images\/logo.svg"
+    },
+    {
+        "url": "https:\/\/www.zesso.com\/be_nl\/",
+        "logo": "https:\/\/zesso.com\/media\/logo\/default\/logo.png",
+        "name": "Zesso",
+        "socials": [
+            "https:\/\/www.facebook.com\/zessoshop",
+            "https:\/\/www.instagram.com\/zessoshop\/",
+            "https:\/\/www.youtube.com\/channel\/UCiSjNF49rYXPVxDGAHVQrhA",
+            "https:\/\/www.linkedin.com\/company\/zessoshop\/",
+            "https:\/\/www.pinterest.com\/zessoshop\/"
+        ],
+        "contactInformation": [
+            {
+                "@type": "ContactPoint",
+                "telephone": "+32-14412504",
+                "contactType": "sales"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+32-14412504",
+                "contactType": "technical support"
+            },
+            {
+                "@type": "ContactPoint",
+                "telephone": "+32-14412504",
+                "contactType": "customer service"
+            }
+        ],
+        "address": {
+            "addressCountry": "Belgi\u00eb",
+            "postalCode": "2490",
+            "addressLocality": "Balen"
+        }
+    },
+    {
+        "name": "Zonnebrillen.com",
+        "url": "https:\/\/www.zonnebrillen.com\/",
+        "logo": "https:\/\/www.zonnebrillen.com\/static\/version1708309384\/frontend\/Zonnebrillen\/default\/nl_NL\/images\/logo.svg",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Leiden",
+            "addressRegion": null,
+            "addressCountry": "NL",
+            "postalCode": "2315 TZ",
+            "streetAddress": "Willem Barentszstraat 1 "
+        }
+    },
+    {
+        "name": "Zonnerij",
+        "url": "https:\/\/www.zonnerij.nl\/",
+        "address": {
+            "addressCountry": "Nederland"
+        }
+    }
+
+
+]
